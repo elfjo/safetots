@@ -1,0 +1,117 @@
+# Copyright (C) 2016 Rainmaker Digital
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Mobile Menu Bar 0.9.0\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2016-12-30 18:41:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: StudioPress <translations@studiopress.com>\n"
+"Language-Team: English <translations@studiopress.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+#: genesis-mobile-menu-bar.php:123
+msgid "You must be using a Genesis child theme to activate this plugin."
+msgstr ""
+
+#: genesis-mobile-menu-bar.php:149
+msgid "Mobile Menu"
+msgstr ""
+
+#: genesis-mobile-menu-bar.php:382
+msgid "Skip to mobile menu bar"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:76
+msgid "Mobile Menu Bar"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:132
+msgid "Enable Mobile Menu Bar?"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:144
+msgid "Menu Bar Background Color"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:154
+msgid "Enable Search Button?"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:165
+msgid "Enable Call Button?"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:176
+msgid "Telephone Number:"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:188
+msgid "Enable Address Button?"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:199
+msgid "Address:"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:211
+msgid "Manage Menu Links"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:212
+msgid ""
+"Select a custom menu, or create a new menu, to display in the Mobile Menu "
+"Bar."
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:233
+msgid "Select a Menu"
+msgstr ""
+
+#: includes/class-genesis-mobile-menu-customizer.php:234
+msgid "Create a New Menu"
+msgstr ""
+
+#: includes/views/menu.php:62
+msgid "Enter keywords&hellip;"
+msgstr ""
+
+#: includes/views/menu.php:63
+msgid "Search"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Genesis Mobile Menu Bar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://studiopress.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Creates mobile menu location, outputs a fixed bar on the front end to "
+"display."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rainmaker Digital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://rainmakerdigital.com/"
+msgstr ""

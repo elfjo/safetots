@@ -1,0 +1,9 @@
+
+# BEGIN GENESIS SEO
+User-Agent: *
+Disallow: /category 
+Disallow: /tag 
+Disallow: /author 
+Disallow: /?s=* 
+
+# END GENESIS SEO
