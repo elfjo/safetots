@@ -23,7 +23,7 @@ function infinity_css() {
 
 	$color_accent = get_theme_mod( 'infinity_accent_color', infinity_customizer_get_default_accent_color() );
 
-	$opts = apply_filters( 'infinity_images', array( '1', '3', '5', '7' ) );
+	$opts = apply_filters( 'infinity_images', array( '3', '5', '7' ) );
 
 	$settings = array();
 
