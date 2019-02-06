@@ -22,7 +22,7 @@ function infinity_customizer_register() {
 
 	global $wp_customize;
 
-	$images = apply_filters( 'infinity_images', array( '1', '3', '5', '7' ) );
+	$images = apply_filters( 'infinity_images', array( '3', '5', '7' ) );
 
 	$wp_customize->add_section( 'infinity-settings', array(
 		'description' => __( 'Use the included default images or personalize your site by uploading your own images.<br /><br />The default images are <strong>1600 pixels wide and 1000 pixels tall</strong>.', 'infinity-pro' ),
