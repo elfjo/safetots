@@ -1,0 +1,258 @@
+#sp-user-onboarding-overlay {
+	background: #263238;
+	content: '';
+	height: 100%;
+	left: 0px;
+	opacity: 0.5;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 9998;
+}
+
+#sp-user-onboarding-popup {
+	background: #fff;
+	box-shadow: 0 9px 31px 0 rgba(38,50,56,0.44);
+	border-radius: 5px;
+	left: 50%;
+	margin-left: -400px;
+	position: absolute;
+	text-align: center;
+	top: 7%;
+	z-index: 9999;
+	width: 800px;
+}
+
+#sp-user-onboarding-popup .wrap {
+	margin: 0;
+	padding: 50px;
+}
+
+#sp-user-onboarding-popup h1 {
+	font-size: 28px;
+	margin-bottom: -5px;
+	margin-top: 0px;
+	padding: 0;
+}
+
+#sp-user-onboarding-popup p,
+#sp-user-onboarding-popup li {
+	font-size: 15px;
+}
+
+#sp-user-onboarding-popup li {
+	text-align: left;
+}
+
+#sp-user-onboarding-popup button {
+	background: #0066CC;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 16px 30px 14px;
+	
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition:    all 0.2s ease-in-out;
+	-ms-transition:     all 0.2s ease-in-out;
+	-o-transition:      all 0.2s ease-in-out;
+	transition:         all 0.2s ease-in-out;
+}
+
+#sp-user-onboarding-popup button:hover {
+	background-color: #1C8EFC;
+	border: none;
+	color: #fff;
+
+	-webkit-box-shadow: 0px 1px 15px 0px rgba(84,110,122,0.4);
+	-moz-box-shadow: 0px 1px 15px 0px rgba(84,110,122,0.4);
+	box-shadow: 0px 1px 15px 0px rgba(84,110,122,0.4);
+}
+
+#sp-user-onboarding-popup button.sp-user-onboarding-popup-btn-close {
+	background: none;
+	color: #90A4AE;
+	font-size: 30px;
+	height: 30px;
+	overflow: hidden;
+	opacity: 0.5;
+	padding: 0;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	width: 30px;
+
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+#sp-user-onboarding-popup button.sp-user-onboarding-popup-btn-close:hover {
+	opacity: 1;
+}
+
+
+/* Step 1 */
+#sp-user-onboarding-popup .sp-user-onboarding-step-1 {
+	background-image: url(../images/welcome-img.png);
+	background-size: 287px 277px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-top: 280px;
+	margin-top: -45px;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul {
+	margin: 5px 50px;
+	overflow: hidden;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul li {
+	float: left;
+	width: 50%;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul li:before {
+	background-image: url(../images/icon-checkmark.png);
+	background-size: 100%;
+	content: '';
+	display: inline-block;
+	height: 27px;
+	margin-right: 15px;
+	position: relative;
+	top: 5px;
+	width: 27px;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-1 .sp-user-onboarding-popup-btn-next {
+	margin-top: 20px;
+}
+
+/* Step 2 */
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 {
+	display: none;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 .sp-user-onboarding-popup-btn-dashboard {
+	margin-top: 20px;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul {
+	margin: 5px auto;
+	padding-bottom: 10px;
+	overflow: hidden;
+	width: 390px;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:before {
+	background-size: 100%;
+	content: '';
+	display: inline-block;
+	height: 38px;
+	margin-right: 15px;
+	position: relative;
+	top: 13px;
+	width: 38px;
+}
+
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(1):before { background-image: url(../images/icon-1.png); }
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(2):before { background-image: url(../images/icon-2.png); }
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(3):before { background-image: url(../images/icon-3.png); }
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(4):before { background-image: url(../images/icon-4.png); }
+#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(5):before { background-image: url(../images/icon-5.png); }
+
+
+@media screen and (-webkit-min-device-pixel-ratio: 2), screen and (max-moz-device-pixel-ratio: 2) {
+	
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 { background-image: url(../images/welcome-img@2x.png); }
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul li:before { background-image: url(../images/icon-checkmark@2x.png); }
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(1):before { background-image: url(../images/icon-1@2x.png); }
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(2):before { background-image: url(../images/icon-2@2x.png); }
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(3):before { background-image: url(../images/icon-3@2x.png); }
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(4):before { background-image: url(../images/icon-4@2x.png); }
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:nth-child(5):before { background-image: url(../images/icon-5@2x.png); }
+
+}
+
+@media only screen and (max-width: 900px) {
+
+	#sp-user-onboarding-popup {
+		position: absolute;
+		margin: 0;
+		left: 2%;
+		top: 45px;
+		width: 96%;
+	}
+
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul {
+		margin: 10px auto;
+		width: 310px;
+	}
+
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul li {
+		width: auto;
+	}
+
+}
+
+@media only screen and (max-width: 500px) {
+	
+	#sp-user-onboarding-popup {
+		top: 55px;
+	}
+
+	#sp-user-onboarding-popup .wrap {
+		padding: 25px;
+	}
+
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1  {
+		margin-top: -25px;
+	}
+
+	#sp-user-onboarding-popup h1 {
+		font-size: 24px;
+	}
+	
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul {
+		margin: 10px auto 0;
+		padding-bottom: 0;
+		width: 100%;
+	}
+
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li {
+		position: relative;
+		padding: 10px 0px 10px 50px;
+	}
+	
+	#sp-user-onboarding-popup .sp-user-onboarding-step-2 ul li:before {
+		left: 0px;
+		position: absolute;
+		top: -1px;
+	}
+	
+}
+
+@media only screen and (max-width: 380px) {
+
+
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul {
+		display: block;
+		margin: 10px auto 0;
+		padding-bottom: 0;
+		width: 100%;
+	}
+
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul li {
+		position: relative;
+		padding: 5px 0px 5px 40px;
+	}
+	
+	#sp-user-onboarding-popup .sp-user-onboarding-step-1 ul li:before {
+		left: 0px;
+		position: absolute;
+		top: -1px;
+	}
+
+}

@@ -1,0 +1,37 @@
+{
+  "name": "genesis-simple-schema",
+  "description": "Development files for the Genesis Simple Schema plugin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copyblogger/genesis-simple-schema"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-checktextdomain": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-csscomb": "*",
+    "grunt-jsbeautifier": "*",
+    "grunt-jsvalidate": "*",
+    "grunt-phplint": "*",
+    "grunt-styledocco": "*",
+    "grunt-wp-i18n": "*",
+    "load-grunt-tasks": "*"
+  },
+  "plugin": {
+    "name": "Genesis Simple Schema",
+    "uri": "https://github.com/copyblogger/genesis-simple-schema",
+    "description": "A simple way to enable advanced Schema control in Genesis",
+    "author": "StudioPress",
+    "authoruri": "http://www.studiopress.com/",
+    "version": "0.9.1",
+    "license": "GPL-2.0+",
+    "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "textdomain": "genesis-simple-schema"
+  }
+}
