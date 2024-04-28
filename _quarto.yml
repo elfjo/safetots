@@ -9,18 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      
-website:
   sidebar:
     style: "floating"
     search: true
     contents:
       - section: "Basics"
         contents:
-        - href: index.qmd
-          text: Home
-          - basics-knitr.qmd
-          - basics-jupyter.qmd
+          - href: index.qmd
+            text: Home
       - section: "Layout"
         contents:
           - about.qmd
