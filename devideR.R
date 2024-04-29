@@ -62,4 +62,4 @@ split_md_to_qmd_and_yaml <- function(file_path) {
 }
 
 # Replace 'path/to/your/Safetots.md' with the actual path to your file
-split_md_to_qmd_and_yaml("path/to/your/Safetots.md")
+split_md_to_qmd_and_yaml("Safetots.md")

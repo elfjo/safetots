@@ -41,6 +41,7 @@ Postoperative recall of sensory perception during general anesthesia (no consens
 
 ### Consequences
 - unknown, may have major implications on social life
+
 **Risk factors include**
 - drugs (neuromuscular blockade, thiopental, TIVA)
 - patients (female gender, age (younger adults), obesity, previous awareness, possibly difficult airway management)

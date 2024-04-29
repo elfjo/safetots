@@ -4,7 +4,9 @@
 Body temperature within the normal physiological range
 
 ### Importance and Consequences
+
 **Hypothermia** is a common problem in children exposed to anesthetic drugs -- especially in the youngest age groups. Hypothermia during anesthesia has many harmful consequences and may trigger multiple physiological changes (increased metabolic rate and oxygen consumption, prolonged bleeding time and increased risk for postoperative infection) and influence the pharmacokinetic and --dynamics of anesthetics.
+
 **Hyperthermia** most commonly occurs because of iatrogenic overheating and failure to decrease the temperature of the exogenous heat source in the face of an increasingly body temperature. Other causes of hyperthermia include malignant hyperthermia, thyrotoxicosis and sepsis.
 
 ### Prevention and Treatment

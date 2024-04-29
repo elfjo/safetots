@@ -26,11 +26,15 @@ Conduct of clinical research based on generally accepted and pre-identified outc
 There is a general agreement between pediatric anesthesia providers that expertise matters on outcome. Although, for obvious ethical reasons, no randomized trial design can address this issue, there is epidemiological data suggesting a positive correlation between the level of expertise and outcome (or on the incidence of critical events).
 
 #### Pre-clinical and clinical physiological studies to determine "safe"
+
 **While there is a general consensus between anesthesia providers to maintain physiological parameters in the "normal" or "safe" range** during the perioperative period, we often do not know what these safe values are. For example, the physiological range of blood pressure that allows adequate organ perfusion and oxygen delivery to pediatric populations during the perioperative period is essentially unknown. Relatedly, the systemic blood pressure values leading to cerebral hypoperfusion are poorly defined. Neither we know to what extent intraoperative cerebral hypoperfusion may lead to brain injury during routine general anesthesia. The interaction between hypotension -- hypo/hyperglycemia -- hyo/hypercapnia in the perioperative setting also remains to be determined. Both preclinical laboratory models and clinical investigations will be necessary to better elucidate these questions.
 
 #### Research on neurodevelopmental outcomes
+
 **Over the past 15 years,** there has been considerable interests about the effects of general anesthetics on the developing brain. Laboratory studies have shown that these drugs can have a variety effects on the developing animal brain. Retrospective human epidemiological observations have revealed mixed results, while prospective studies and trials showed no impact of anesthesia/surgery on neurodevelopmental outcome as assessed by a battery of cognitive tests. Based on available current evidence, the European Consensus statement on the use of general anesthesia in pediatric populations recommends no change in clinical practice.
+
 **There are, nevertheless, several questions remaining open.** First, we do not know whether our current methodology to evaluate neuromorbidity is appropriate or some aspects of behavior/cognition are missed. Second, we do not know if there are specific genetic/epigenetic backgrounds displaying increased vulnerability to anesthesia/surgery. Third, we do not know how anesthetic drugs interact with surgery and other perioperative factors in terms neuromorbidity. Both preclinical models and clinical studies are warranted on these questions.
+
 **One important issue is that,** since we do not know how to measure it, we do not directly measure neuromorbidity in the perioperative period. Research and development of tools (along with the validation of these tools) to measure neuromorbidity will be essential to gain further insights into the effects of the perioperative period on the developing human brain.
 
 

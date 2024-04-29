@@ -4,7 +4,9 @@
 Normal oxygen tension in the blood. Adequate oxygen supply permits aerobic metabolism.
 
 ### Importance
+
 **Hypoxemia** is commonly encountered during pediatric anesthesia. Prolonged hypoxemia may lead to adverse short and long-term outcomes.
+
 **Hyperoxemia** is iatrogenic and may result in the production of reactive oxygen species affecting normal organ function.
 
 ### Consequences
@@ -19,6 +21,7 @@ Prolonged hyperoxemia may affect organ development and function such as retinopa
 ### Prevention
 - aim to achieve adequate oxygen tensions
 - acute hypoxia is commonly a result of difficulties and critical incidences during airway and ventilation management
+
 **Prevention requires:**
 - regular teaching and training
 - equipment and drugs

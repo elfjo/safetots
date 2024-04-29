@@ -2,10 +2,15 @@
 ## The Safetots Mission and Story
 
 ### Story
+
 **Laboratory research over the past 2 decades has raised concerns** about the effects of anesthesia and surgery in the developing brain.
+
 **There is a controversy if neuromorbidity** may result from the potentially toxic effects of anesthetic drugs on the central nervous system or may arise from an inappropriate conduct of anesthesia and from surgery.
+
 **The SmartTots public-private partnership** focuses on studying the harmful effects of anesthetics on the developing brain.
+
 **The Safetots.org initiative was established to emphasize the role of the conduct of anesthesia** to prevent harm in the perioperative period and to promote safe and high quality clinical care. This initiative considers that the quality of anesthesia management and other well-known risk factors of perioperative care have a far more important impact on outcomes following anesthesia and surgery.
+
 **The Safetots.org initiative aims to bring together healthcare providers** in the field of pediatric perioperative care.
 
 ## Rights of the Child (10Rs)
@@ -64,10 +69,14 @@ The 5Ws listed below are closely related to the Rights of the Child (10Rs). In p
 - These basic rights are respected if the 5Ws are applied.
 
 ### Who
+
 **Anesthesia for children should always be delivered by competent and appropriately experienced anesthesiologists and care teams.**
 Children aged less than 3 years, ASA physical status ≥ III (all ages), with underlying congenital and metabolic diseases and/or those undergoing major or complex surgery are those at highest risk for perioperative complications and poor outcome. It is recommended that these children should receive care by an anesthesiologist with specific education, training and ongoing experience in pediatric anesthesia.
+
 **Anesthesiologists with mixed practice can deliver pediatric anesthesia for healthy children aged \>3 years simple and routine procedures** provided they have the adequate expertise and regular practice in pediatric anesthesia. They should maintain their competence with regular exposure to pediatric lists and keep their knowledge up-to-date. This will minimize the occurrence of life-threatening complications.
+
 **Continuing education and regular updates** in pediatric centers are recommended to maintain competency. Specialist centers should support those in non-specialist practice.
+
 **Residents and fellows in pediatric anesthesia departments** must be supervised in a 1:1 manner by experienced staff during induction and emergence as well as at any time during the anesthesia if required.
 
 ### Where
@@ -94,7 +103,9 @@ Children who undergo anesthesia in remote areas (imaging, interventional procedu
 An effective referral and retrieval system must be in place for the transfer of critical ill children.
 
 ### What
+
 **Pediatric patients requiring highly specialized or major surgery** (cardiac, thoracic, major visceral, major orthopedic, neurosurgical, burns and craniofacial procedures), those with significant and uncontrolled co-morbidities as well as critically ill children will benefit from specialized anesthetic care in dedicated pediatric centers.
+
 **Anesthesia for routine operations** (common ENT/ORL procedures, simple fractures, wound repairs, laparoscopic appendectomy) in otherwise stable and healthy children can be performed in district hospitals by specialist pediatric anesthesiologists or anesthesiologists with an expertise in pediatric anesthesia provided appropriate staffing, equipment, facilities and support services are in place.
 
 ### When
@@ -102,8 +113,11 @@ Careful considerations must be given to balance the increased perioperative risk
 A delay in elective or scheduled procedures may result in avoidable emergency procedures, which do carry a higher peri-operative risk.
 
 ### HoW
+
 **High Quality and Safe Anesthesia Care** promotes the well-being of the child (see Rights of the Child). It maintains physiological homeostasis (see 10Ns) and addresses the known peri-operative risk factors (See 10Cs) in an appropriately resourced multidisciplinary pediatric environment.
+
 **Expertise in all pediatric anesthetic techniques** is required to provide optimal care for all children in all situations. Several European countries have well established 'pediatric anesthesia fellowships' with the duration of one or two years.
+
 **This is a mandatory prerequisite for those anesthesiologists** that are willing to provide specialized pediatric care. In countries where a pediatric fellowship program is not established, the European Training Requirements (ETR) should be considered.
 
 ### References
@@ -178,6 +192,7 @@ Postoperative recall of sensory perception during general anesthesia (no consens
 
 ### Consequences
 - unknown, may have major implications on social life
+
 **Risk factors include**
 - drugs (neuromuscular blockade, thiopental, TIVA)
 - patients (female gender, age (younger adults), obesity, previous awareness, possibly difficult airway management)
@@ -306,7 +321,9 @@ Strive to achieve sufficient organ perfusion:
 Normal oxygen tension in the blood. Adequate oxygen supply permits aerobic metabolism.
 
 ### Importance
+
 **Hypoxemia** is commonly encountered during pediatric anesthesia. Prolonged hypoxemia may lead to adverse short and long-term outcomes.
+
 **Hyperoxemia** is iatrogenic and may result in the production of reactive oxygen species affecting normal organ function.
 
 ### Consequences
@@ -321,6 +338,7 @@ Prolonged hyperoxemia may affect organ development and function such as retinopa
 ### Prevention
 - aim to achieve adequate oxygen tensions
 - acute hypoxia is commonly a result of difficulties and critical incidences during airway and ventilation management
+
 **Prevention requires:**
 - regular teaching and training
 - equipment and drugs
@@ -349,6 +367,7 @@ Acute and chronic changes in arterial carbon dioxide tensions lead to short- and
 ### Prevention and treatment
 - aim to achieve adequate carbon dioxide tensions
 - acute changes in carbon dioxide tensions are commonly a result of difficulties and critical incidences during airway and ventilation management.
+
 **Prevention requires:**
 - regular teaching and training of ventilation strategies
 - consider limitations of monitoring and airway equipment
@@ -425,7 +444,9 @@ Acute and chronic changes in blood glucose concentrations have significant conse
 Body temperature within the normal physiological range
 
 ### Importance and Consequences
+
 **Hypothermia** is a common problem in children exposed to anesthetic drugs -- especially in the youngest age groups. Hypothermia during anesthesia has many harmful consequences and may trigger multiple physiological changes (increased metabolic rate and oxygen consumption, prolonged bleeding time and increased risk for postoperative infection) and influence the pharmacokinetic and --dynamics of anesthetics.
+
 **Hyperthermia** most commonly occurs because of iatrogenic overheating and failure to decrease the temperature of the exogenous heat source in the face of an increasingly body temperature. Other causes of hyperthermia include malignant hyperthermia, thyrotoxicosis and sepsis.
 
 ### Prevention and Treatment
@@ -450,6 +471,7 @@ A large number of children still experience significant pain in the perioperativ
 
 ### Consequences
 Inadequate peri-operative pain control can lead to a variety of behavioral and somatic changes.
+
 **These include:**
 - altered behavior (emotional)
 - subsequent altered pain perception
@@ -1031,11 +1053,15 @@ Conduct of clinical research based on generally accepted and pre-identified outc
 There is a general agreement between pediatric anesthesia providers that expertise matters on outcome. Although, for obvious ethical reasons, no randomized trial design can address this issue, there is epidemiological data suggesting a positive correlation between the level of expertise and outcome (or on the incidence of critical events).
 
 #### Pre-clinical and clinical physiological studies to determine "safe"
+
 **While there is a general consensus between anesthesia providers to maintain physiological parameters in the "normal" or "safe" range** during the perioperative period, we often do not know what these safe values are. For example, the physiological range of blood pressure that allows adequate organ perfusion and oxygen delivery to pediatric populations during the perioperative period is essentially unknown. Relatedly, the systemic blood pressure values leading to cerebral hypoperfusion are poorly defined. Neither we know to what extent intraoperative cerebral hypoperfusion may lead to brain injury during routine general anesthesia. The interaction between hypotension -- hypo/hyperglycemia -- hyo/hypercapnia in the perioperative setting also remains to be determined. Both preclinical laboratory models and clinical investigations will be necessary to better elucidate these questions.
 
 #### Research on neurodevelopmental outcomes
+
 **Over the past 15 years,** there has been considerable interests about the effects of general anesthetics on the developing brain. Laboratory studies have shown that these drugs can have a variety effects on the developing animal brain. Retrospective human epidemiological observations have revealed mixed results, while prospective studies and trials showed no impact of anesthesia/surgery on neurodevelopmental outcome as assessed by a battery of cognitive tests. Based on available current evidence, the European Consensus statement on the use of general anesthesia in pediatric populations recommends no change in clinical practice.
+
 **There are, nevertheless, several questions remaining open.** First, we do not know whether our current methodology to evaluate neuromorbidity is appropriate or some aspects of behavior/cognition are missed. Second, we do not know if there are specific genetic/epigenetic backgrounds displaying increased vulnerability to anesthesia/surgery. Third, we do not know how anesthetic drugs interact with surgery and other perioperative factors in terms neuromorbidity. Both preclinical models and clinical studies are warranted on these questions.
+
 **One important issue is that,** since we do not know how to measure it, we do not directly measure neuromorbidity in the perioperative period. Research and development of tools (along with the validation of these tools) to measure neuromorbidity will be essential to gain further insights into the effects of the perioperative period on the developing human brain.
 
 
@@ -1094,6 +1120,7 @@ Good pediatric anesthesia care also requires well trained pediatric nurses, pedi
 
 ### What should I say to the parents or carers of a young infant who express concern about anesthesia and the potential for long-term effects on the brain?
 There is no proven direct causal adverse effect of general anesthetics on human brain development. Recent reviews of the animal and clinical literature , and the outcome of the GAS study conclude that there is now strong evidence that short single exposure to anesthesia in early life is not associated with any long term significant measurable risk in humans. Some large population-based studies have found evidence for a small difference in tests of academic achievement and school readiness but the differences are small (for example, around 1% decrement in IQ) and this would not have a noticeable impact on the child. Any added risk of anesthesia and surgery is up to 10 times less than other factors such as gender or maternal education. Some studies have found evidence of an association between surgery and anesthesia in early life and increased risk of behavioral disorder or learning disability but the added risk is very small.
+
 **The central points to explain and emphasize are that:**
 - the surgery or procedure is only being scheduled because it is necessary
 - surgery cannot be safely performed without adequate anesthesia and analgesia

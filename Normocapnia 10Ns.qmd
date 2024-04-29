@@ -15,6 +15,7 @@ Acute and chronic changes in arterial carbon dioxide tensions lead to short- and
 ### Prevention and treatment
 - aim to achieve adequate carbon dioxide tensions
 - acute changes in carbon dioxide tensions are commonly a result of difficulties and critical incidences during airway and ventilation management.
+
 **Prevention requires:**
 - regular teaching and training of ventilation strategies
 - consider limitations of monitoring and airway equipment
