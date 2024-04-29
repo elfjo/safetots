@@ -32,8 +32,8 @@ Good pediatric anesthesia care also requires well trained pediatric nurses, pedi
 ### What should I say to the parents or carers of a young infant who express concern about anesthesia and the potential for long-term effects on the brain?
 There is no proven direct causal adverse effect of general anesthetics on human brain development. Recent reviews of the animal and clinical literature , and the outcome of the GAS study conclude that there is now strong evidence that short single exposure to anesthesia in early life is not associated with any long term significant measurable risk in humans. Some large population-based studies have found evidence for a small difference in tests of academic achievement and school readiness but the differences are small (for example, around 1% decrement in IQ) and this would not have a noticeable impact on the child. Any added risk of anesthesia and surgery is up to 10 times less than other factors such as gender or maternal education. Some studies have found evidence of an association between surgery and anesthesia in early life and increased risk of behavioral disorder or learning disability but the added risk is very small.
 
-
 **The central points to explain and emphasize are that:**
+
 - the surgery or procedure is only being scheduled because it is necessary
 - surgery cannot be safely performed without adequate anesthesia and analgesia
 - most anaesthetics in children are of short duration

@@ -1,6 +1,6 @@
 ## Quality Improvement
 
-### ![A person and a child looking at a tablet Description automatically generated](media/image8.png){width="5.508333333333334in" height="2.8847222222222224in"}
+img
 
 ### Why is Quality Improvement (QI) important in pediatric anesthesia?
 Quality improvement (QI) is a key part of improving outcomes and services. QI methodology uses cycles of change with continuous monitoring of process outcomes with methods such as Plan-Do-Study-Act (PDSA) or Six Sigma. Key to improving services is measuring outcome with high quality simple data and a local culture open to change and focusing on care quality.

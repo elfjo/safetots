@@ -1,4 +1,4 @@
-![Close-up of a baby\'s face Description automatically generated](media/image1.png){width="8.244200568678915in" height="4.584615048118986in"}
+
 Safetots.org
 Safe Anesthesia for Every Child
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -148,7 +148,7 @@ A delay in elective or scheduled procedures may result in avoidable emergency pr
 - Hansen TG, Vutskits L, Disma N, Becke-Jakob K, Elfgren J, Frykholm P, Machotta A, Weiss M, Engelhardt T, Safetots Initiative. Harmonising paediatric anaesthesia training in Europe: Proposal of a roadmap. Eur J Anaesthesiol. 2022 Aug 1;39(8):642-645
 
 ## The 10-Ns
-![Cartoon of a group of doctors in a hospital Description automatically generated](media/image5.png){width="5.508333333333334in" height="2.8583333333333334in"}
+img
 
 - No Fear and No Awareness
 - Normovolemia
@@ -575,7 +575,9 @@ Emergence delirium may result in self-injury of the child and increase the healt
 - Line Gry Larsen, Marie Wegger, Sebastian Lé Greves, Liv Erngaard, Tom G Hansen. Emergence agitation in paediatric day case surgery: A randomised, single-blinded study comparing narcotrend and heart rate variability with standard monitoring. Eur J Anaesthesiol. 2022 Mar 1;39(3):261-268.
 
 ## Crisis (10Cs)
-![A group of red peppers Description automatically generated](media/image6.png){width="5.508333333333334in" height="2.4555555555555557in"}
+
+img
+
 Critical events in pediatric anesthesia are common (up to 10% of all children) and can lead to morbidity and mortality.
 
 Essential Standard Operating Protocols (SOP) in addition to education, teaching and training are necessary for the prevention, prompt recognition and appropriate treatment of critical situations.
@@ -794,9 +796,6 @@ Intra-osseous access is the access of choice in life threatening emergencies
 - Weiss M, Engelhardt T. Cannot cannulate: bonulate! Eur J Anaesthesiol 2012; 29: 257-8.
 - Eich Ch, Weiss M, Neuhaus D et al. HE Handlungsempfehlung zur intraossären Infusion in der Kinderanästhesie. Anästh Intensivmed 2011; 52: S46-S52.
 
-
-
-
 ###  Anaphylaxis (10Cs)
 This page is part of the Safetots Crisis SOPs, a framework for prevention and treatment of the most relevant crisis situations in pediatric anaesthesia.
 
@@ -922,12 +921,6 @@ Peri-operative pulmonary aspiration is rare in pediatric anesthesia and usually 
 - Eich C, Timmermann A, Russo SG, Cremer S, Nickut A, Strack M, Weiss M, Müller MP. A controlled rapid-sequence induction technique for infants may reduce unsafe actions and stress. Acta Anaesthesiol Scand. 2009; 53: 1167-72.
 - Schmidt J, Strauß JM, Becke K, J Giest J, Schmitz B. Handlungsempfehlung zur Rapid-Sequence-Induction im Kindesalter. Anästhesie & Intensivmedizin 2007; 48: S86-S93.
 - Engelhardt T. Rapid sequence induction has no use in pediatric anesthesia. Paediatr Anaesth. 2015; 25: 5-8.
-
-
-
-
------
-
 
 ###  Tonsillar Bleeding (10Cs)
 
@@ -1055,7 +1048,7 @@ Call for help early, initiate action plan and allocate specific tasks:
 
 ## Research
 
-### ![A drawing of a human head Description automatically generated](media/image7.png){width="5.508333333333334in" height="2.7006944444444443in"}
+img
 
 ### Why Research into Safe Conduct of Anesthesia is important
 The most important unsolved question is how to define "safe conduct" in pediatric anesthesia. In other words, what outcomes should we use to measure the "success" of anesthesia and perioperative care? This research priority generates many more fundamental questions:
@@ -1101,7 +1094,7 @@ There is a general agreement between pediatric anesthesia providers that experti
 
 ## Quality Improvement
 
-### ![A person and a child looking at a tablet Description automatically generated](media/image8.png){width="5.508333333333334in" height="2.8847222222222224in"}
+img
 
 ### Why is Quality Improvement (QI) important in pediatric anesthesia?
 Quality improvement (QI) is a key part of improving outcomes and services. QI methodology uses cycles of change with continuous monitoring of process outcomes with methods such as Plan-Do-Study-Act (PDSA) or Six Sigma. Key to improving services is measuring outcome with high quality simple data and a local culture open to change and focusing on care quality.
@@ -1152,8 +1145,8 @@ Good pediatric anesthesia care also requires well trained pediatric nurses, pedi
 ### What should I say to the parents or carers of a young infant who express concern about anesthesia and the potential for long-term effects on the brain?
 There is no proven direct causal adverse effect of general anesthetics on human brain development. Recent reviews of the animal and clinical literature , and the outcome of the GAS study conclude that there is now strong evidence that short single exposure to anesthesia in early life is not associated with any long term significant measurable risk in humans. Some large population-based studies have found evidence for a small difference in tests of academic achievement and school readiness but the differences are small (for example, around 1% decrement in IQ) and this would not have a noticeable impact on the child. Any added risk of anesthesia and surgery is up to 10 times less than other factors such as gender or maternal education. Some studies have found evidence of an association between surgery and anesthesia in early life and increased risk of behavioral disorder or learning disability but the added risk is very small.
 
-
 **The central points to explain and emphasize are that:**
+
 - the surgery or procedure is only being scheduled because it is necessary
 - surgery cannot be safely performed without adequate anesthesia and analgesia
 - most anaesthetics in children are of short duration
@@ -1189,7 +1182,7 @@ There are many excellent resources that summarize quality improvement science an
 
 ## For Parents
 
-![A child whispering into a child\'s ear Description automatically generated](media/image10.png){width="5.508333333333334in" height="2.917361111111111in"}
+img
 
 ### Frequently asked questions (FAQs)
 
@@ -1237,8 +1230,6 @@ Absolutely. Evidence of qualiﬁcations, training, and experience should be avai
 ### What can I as a parent do to help my child?
 Being present to give information and comfort to your child are helpful although it can be stressful for you.
 
-
-----
 
 ### Where can I get more information or help? 
 Follow these useful links to up to date information and advice.

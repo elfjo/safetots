@@ -6,6 +6,8 @@ website:
   title: "Safetots"
   navbar:
     left:
+      - href: index.qmd
+        text: Home
       - href: Rights of the Child 10Rs.qmd
         text: Rights
       - href: Competence 5Ws.qmd
@@ -14,6 +16,8 @@ website:
         text: 10N
       - href: Crisis 10Cs.qmd
         text: Crisis
+      - href: Parental discussion.qmd
+        text: Parental
   sidebar:
    style: "floating"
    search: true
