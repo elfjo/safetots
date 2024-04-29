@@ -4,38 +4,38 @@
 Local anesthetic systemic toxicity (LAST) in children can be prevented by slow injection of local anesthetic agents and careful monitoring for clinical signs. Primary treatment is directed to maintaining oxygenation and circulation before initiating lipid rescue.
 
 ### Background
--   local anesthetic systemic toxicity (LAST) occurs when large quantities of local anesthetics reach the systemic circulation and depends on multiple variables and presents in various clinical ways ranging from mild neurological symptoms to cardiac toxicity and death
--   early symptoms and signs of LAST are masked in children if regional anesthesia is administered during general anesthesia and sedation
--   cardiac toxicity of local anesthetics is increased by acidosis and hypoxemia
+- local anesthetic systemic toxicity (LAST) occurs when large quantities of local anesthetics reach the systemic circulation and depends on multiple variables and presents in various clinical ways ranging from mild neurological symptoms to cardiac toxicity and death
+- early symptoms and signs of LAST are masked in children if regional anesthesia is administered during general anesthesia and sedation
+- cardiac toxicity of local anesthetics is increased by acidosis and hypoxemia
 
 ### Prevention
--   knowledge of maximum dose and concentration is essential and it is important to individualize the choice of drug, dose and concentration based on the patient's clinical condition and comorbidities
--   the 'Stop before you block' principle allows checking of patient relevant information, dose, contra-indication and type and site of regional anesthesia before injection local anesthetics
--   careful aspiration, passive back-flow, slow injection, test dose with added epinephrine (1:200,000) and close hemodynamic monitoring (blood pressure in 1-minute intervals, pulse oximetry and ECG) allows early detection of inadvertent systemic administration and avoidance of LAST
--   confirm maximum dose of continuous administration local anesthetic for neonates and infants as well older children
--   ensure availability of:
--   Resuscitative equipment and drugs
--   Airway equipment: the means to provide bag mask ventilation, oral and nasal airways, laryngoscopes and endotracheal tubes, laryngeal mask airways
+- knowledge of maximum dose and concentration is essential and it is important to individualize the choice of drug, dose and concentration based on the patient's clinical condition and comorbidities
+- the 'Stop before you block' principle allows checking of patient relevant information, dose, contra-indication and type and site of regional anesthesia before injection local anesthetics
+- careful aspiration, passive back-flow, slow injection, test dose with added epinephrine (1:200,000) and close hemodynamic monitoring (blood pressure in 1-minute intervals, pulse oximetry and ECG) allows early detection of inadvertent systemic administration and avoidance of LAST
+- confirm maximum dose of continuous administration local anesthetic for neonates and infants as well older children
+- ensure availability of:
+- Resuscitative equipment and drugs
+- Airway equipment: the means to provide bag mask ventilation, oral and nasal airways, laryngoscopes and endotracheal tubes, laryngeal mask airways
 
 ### Treatment
--   when suspecting LAST, stop injecting more local anesthetic and call for help
--   supportive measures to maintain the airway and oxygenation and treating seizures are usually sufficient
--   maintaining cardiac output using epinephrine and external cardiac massage if necessary results in re-distribution and clearance of the local anesthetic
--   secondary administration of lipid solutions may be useful in severe cases and hasten recovery from LAST
+- when suspecting LAST, stop injecting more local anesthetic and call for help
+- supportive measures to maintain the airway and oxygenation and treating seizures are usually sufficient
+- maintaining cardiac output using epinephrine and external cardiac massage if necessary results in re-distribution and clearance of the local anesthetic
+- secondary administration of lipid solutions may be useful in severe cases and hasten recovery from LAST
 
 ### Post Care
--   patient disclosure and careful documentation are required
--   if an allergic reaction is considered arrange further workup and follow-up
+- patient disclosure and careful documentation are required
+- if an allergic reaction is considered arrange further workup and follow-up
 
 ### References
--   Bernards CM, Hadzic A, Suresh S, Neal JM. Regional anesthesia in anesthetized or heavily sedated patients. Reg Anesth Pain Med. 2008; 33: 449-60.
--   Walker BJ, Long JB, Sathyamoorthy M et al. Complications in Pediatric Regional Anesthesia: An Analysis of More than 100,000 Blocks from the Pediatric Regional Anesthesia Network. Anesthesiology. 2018; 129: 721-32.
--   Mauch J, Kutter AP, Madjdpour C, Spielmann N, Balmer C, Frotzler A, Bettschart-Wolfensberger R, Weiss M. Electrocardiographic changes during continuous intravenous application of bupivacaine in neonatal pigs. Br J Anaesth. 2010; 105: 437-41.
--   Mauch J, Kutter AP, Madjdpour C, Koepfer N, Frotzler A, Bettschart-Wolfensberger R, Weiss M. Electrocardiographic alterations during intravascular application of three different test doses of bupivacaine and epinephrine: experimental study in neonatal pigs. Br J Anaesth. 2010; 104: 94-7.
--   Mauch JY, Weiss M, Spielmann N, Ringer SK. Electrocardiographic and blood pressure alterations caused by intravenous injection of ropivacaine -- a study in piglets. Paediatr Anaesth. 2013; 23: 144-8.
--   Mauch JY, Spielmann N, Hartnack S, Weiss M. Electrocardiographic and haemodynamic alterations caused by three different test solutions of local anaesthetics to detect accidental intravascular injection in children. Br J Anaesth. 2012; 108: 283-9.
--   Mauch J, Martin Jurado O, Spielmann N, Bettschart-Wolfensberger R, Weiss M. Comparison of epinephrine vs lipid rescue to treat severe local anesthetic toxicity -- an experimental study in piglets. Paediatr Anaesth. 2011; 21: 1103-8
--   Mauch J, Jurado OM, Spielmann N, Bettschart-Wolfensberger R, Weiss M. Resuscitation strategies from bupivacaine-induced cardiac arrest. Paediatr Anaesth. 2012; 22: 124-9.
--   AAGBI. Management of Severe Local Anaesthetic Toxicity. Notes. AAGBI Safety Guideline. https://www.aagbi.org/sites/default/files/la*toxicity*notes*2010*print.pdf. last accessed 3/2019
--   AAGBI. Management of Severe Local Anaesthetic Toxicity. https://www.aagbi.org/sites/default/files/la*toxicity*2010*0.pdf. last accessed 3/2019*
+- Bernards CM, Hadzic A, Suresh S, Neal JM. Regional anesthesia in anesthetized or heavily sedated patients. Reg Anesth Pain Med. 2008; 33: 449-60.
+- Walker BJ, Long JB, Sathyamoorthy M et al. Complications in Pediatric Regional Anesthesia: An Analysis of More than 100,000 Blocks from the Pediatric Regional Anesthesia Network. Anesthesiology. 2018; 129: 721-32.
+- Mauch J, Kutter AP, Madjdpour C, Spielmann N, Balmer C, Frotzler A, Bettschart-Wolfensberger R, Weiss M. Electrocardiographic changes during continuous intravenous application of bupivacaine in neonatal pigs. Br J Anaesth. 2010; 105: 437-41.
+- Mauch J, Kutter AP, Madjdpour C, Koepfer N, Frotzler A, Bettschart-Wolfensberger R, Weiss M. Electrocardiographic alterations during intravascular application of three different test doses of bupivacaine and epinephrine: experimental study in neonatal pigs. Br J Anaesth. 2010; 104: 94-7.
+- Mauch JY, Weiss M, Spielmann N, Ringer SK. Electrocardiographic and blood pressure alterations caused by intravenous injection of ropivacaine -- a study in piglets. Paediatr Anaesth. 2013; 23: 144-8.
+- Mauch JY, Spielmann N, Hartnack S, Weiss M. Electrocardiographic and haemodynamic alterations caused by three different test solutions of local anaesthetics to detect accidental intravascular injection in children. Br J Anaesth. 2012; 108: 283-9.
+- Mauch J, Martin Jurado O, Spielmann N, Bettschart-Wolfensberger R, Weiss M. Comparison of epinephrine vs lipid rescue to treat severe local anesthetic toxicity -- an experimental study in piglets. Paediatr Anaesth. 2011; 21: 1103-8
+- Mauch J, Jurado OM, Spielmann N, Bettschart-Wolfensberger R, Weiss M. Resuscitation strategies from bupivacaine-induced cardiac arrest. Paediatr Anaesth. 2012; 22: 124-9.
+- AAGBI. Management of Severe Local Anaesthetic Toxicity. Notes. AAGBI Safety Guideline. https://www.aagbi.org/sites/default/files/la*toxicity*notes*2010*print.pdf. last accessed 3/2019
+- AAGBI. Management of Severe Local Anaesthetic Toxicity. https://www.aagbi.org/sites/default/files/la*toxicity*2010*0.pdf. last accessed 3/2019*
 

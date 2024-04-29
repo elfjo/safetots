@@ -8,7 +8,7 @@ Autonomic control of the heart rate in utero is mediated predominantly via the p
 In neonates and infants, the heart rate may have a wide variation that is still within normal limits. The mean heart rate in neonates in the first 24 hours is 120 beats per minute, it increases to a mean of 160 beats per minute at 1 month of age, after which it gradually decreases to 75 beats per min at adolescence (Table 1).
 In young children cardiac output is very much depended on heart rate and any heart rate \< 100 beats per minute should be explored further and treated if necessary.
 In older children, a significant number of arrhythmias and conduction abnormalities are also encountered, with marked fluctuations in heart rate caused by variations in autonomic tone.
-  -----------------------------------------------------------------------   **Age**   Mean heart rate in beats per minute (range)   ----------------- -----------------------------------------------------    Premature    120-170
+  ----------------------------------------------------------------------- **Age**   Mean heart rate in beats per minute (range)   ----------------- -----------------------------------------------------  Premature    120-170
    0-3 months   100-150
   3-6 months    90-120
    6-12 months   80-120
@@ -23,12 +23,12 @@ Acute deviations from patient specific norms may result in physiologically and c
 
 ### Prevention and treatment
 Strive to achieve sufficient organ perfusion:
--   monitor heart rate appropriately
--   identify and treat underlying causes for bradycardia (hypoxemia, hypotension, drug errors, reflexes)
--   prepare / administer epinephrine and/ or anticholinergics
--   perform external cardiac compression in children if acute bradycardia (\< 60 bpm) and with signs of poor perfusion occurs
+- monitor heart rate appropriately
+- identify and treat underlying causes for bradycardia (hypoxemia, hypotension, drug errors, reflexes)
+- prepare / administer epinephrine and/ or anticholinergics
+- perform external cardiac compression in children if acute bradycardia (\< 60 bpm) and with signs of poor perfusion occurs
 
 ### Key references
--   Richards JM et al. Sequential 22-hour profiles of breathing pattern and heart rate in full-term infants during their first 6 months of life. Pediatrics 1984; 74: 763-77
--   Hartman ME, Cheifetz IM. Pediatric emrgencies and resuscitation. In: Kliegman RM, Stanton ST, Gerne III, Schor NF, Behrman RE (eds). Nelson Textbook of Pediatrics 20 Ed. Philadelphina Elsevier 2016.
+- Richards JM et al. Sequential 22-hour profiles of breathing pattern and heart rate in full-term infants during their first 6 months of life. Pediatrics 1984; 74: 763-77
+- Hartman ME, Cheifetz IM. Pediatric emrgencies and resuscitation. In: Kliegman RM, Stanton ST, Gerne III, Schor NF, Behrman RE (eds). Nelson Textbook of Pediatrics 20 Ed. Philadelphina Elsevier 2016.
 

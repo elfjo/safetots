@@ -10,25 +10,25 @@ Blood glucose homeostasis is important for ensuring a continuing energy supply a
 Acute and chronic changes in blood glucose concentrations have significant consequences to the perioperative outcome.
 
 #### Hypoglycemia
--   irritability
--   seizures
--   hemodynamic instability
--   coma, death
+- irritability
+- seizures
+- hemodynamic instability
+- coma, death
 
 #### Hyperglycemia
--   hyperosmolality
--   ketoacidosis
--   polyuria and dehydration and
--   seizures, death
+- hyperosmolality
+- ketoacidosis
+- polyuria and dehydration and
+- seizures, death
 
 ### Prevention and treatment
--   awareness of fasting and nutrition status of the patient, minimize preoperative fasting times
--   perioperative (surgical) stress reduction (analgesia and body temperature control)
--   situation appropriate monitoring (neonates, critically ill children) and investigations
--   consider isotonic glucose containing perioperative intravenous solutions especially in preterm, neonates and small infants, patient on total parental nutrition (TPN) and critically ill patients
--   patients with inherited and acquired endocrine or glucose dependent metabolic disorders require special attention and workup
--   prompt and appropriate treatment of significant hypo- and hyperglycemia
+- awareness of fasting and nutrition status of the patient, minimize preoperative fasting times
+- perioperative (surgical) stress reduction (analgesia and body temperature control)
+- situation appropriate monitoring (neonates, critically ill children) and investigations
+- consider isotonic glucose containing perioperative intravenous solutions especially in preterm, neonates and small infants, patient on total parental nutrition (TPN) and critically ill patients
+- patients with inherited and acquired endocrine or glucose dependent metabolic disorders require special attention and workup
+- prompt and appropriate treatment of significant hypo- and hyperglycemia
 
 ### Key references
--   Sümpelmann R, Becke K, Brenner S, Breschan C, Eich C, Höhne C, Jöhr M, Kretz FJ, Marx G, Pape L, Schreiber M, Strauss J, Weiss M. Perioperative intravenous fluid therapy in children: guidelines from the Association of the Scientific Medical Societies in Germany. Paediatr Anaesth. 2017 Jan;27(1):10-18.
+- Sümpelmann R, Becke K, Brenner S, Breschan C, Eich C, Höhne C, Jöhr M, Kretz FJ, Marx G, Pape L, Schreiber M, Strauss J, Weiss M. Perioperative intravenous fluid therapy in children: guidelines from the Association of the Scientific Medical Societies in Germany. Paediatr Anaesth. 2017 Jan;27(1):10-18.
 

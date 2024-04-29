@@ -4,14 +4,14 @@ Critical events in pediatric anesthesia are common (up to 10% of all children) a
 Essential Standard Operating Protocols (SOP) in addition to education, teaching and training are necessary for the prevention, prompt recognition and appropriate treatment of critical situations.
 The instant availability of essential drugs, equipment and support staff is required in addition to these SOPs. The most common acute and life-threatening complications require intuitive, clear and goal directed SOPs.
 Below are examples of the ten most common life-threatening critical situations and approaches in pediatric anesthesia care.
--   Can´t Oxygenate -- Can´t Ventilate
--   Can´t Intubate
--   Can Intubate -- Can't Oxygenate
--   Can´t Cannulate -- Failed Venous Access
--   Anaphylaxis
--   Major Haemorrhage
--   Perioperative Pulmonary Aspiration
--   Tonsillar Bleeding
--   Local anaesthetic systemic toxicity -- LAST
--   Malignant Hyperthermia Crisis -- MH
+- Can´t Oxygenate -- Can´t Ventilate
+- Can´t Intubate
+- Can Intubate -- Can't Oxygenate
+- Can´t Cannulate -- Failed Venous Access
+- Anaphylaxis
+- Major Haemorrhage
+- Perioperative Pulmonary Aspiration
+- Tonsillar Bleeding
+- Local anaesthetic systemic toxicity -- LAST
+- Malignant Hyperthermia Crisis -- MH
 

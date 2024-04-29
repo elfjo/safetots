@@ -1,10 +1,10 @@
 ## Competence (5Ws)
 ![A group of people in scrubs working on a baby Description automatically generated](media/image4.png){width="5.508333333333334in" height="2.935416666666667in"}
 The 5Ws listed below are closely related to the Rights of the Child (10Rs). In particular children have
--   the "Right to enjoy the highest attainable standard of health"
--   the "Right to avoid pain, fear and stress"
--   the "Right to have their parents with them"
--   These basic rights are respected if the 5Ws are applied.
+- the "Right to enjoy the highest attainable standard of health"
+- the "Right to avoid pain, fear and stress"
+- the "Right to have their parents with them"
+- These basic rights are respected if the 5Ws are applied.
 
 ### Who
 **Anesthesia for children should always be delivered by competent and appropriately experienced anesthesiologists and care teams.**
@@ -21,12 +21,12 @@ The pediatric population is too small to allow maintenance of sufficient skills 
 In particular, the most vulnerable pediatric population, such as neonates and infants, those with co-morbidities and with underlying congenital and metabolic diseases as well as children undergoing major or complex surgery require referral to appropriately resourced multidisciplinary pediatric environments.
 
 #### Advantages of specialized children's hospitals 
--   24/7 pediatric anesthesia emergency service
--   Specialized pediatric nursing staff
--   Appropriate equipment for daily routine and critical situations for all targeted age groups
--   Development and implementation of standard operating protocols (SOP) for routine processes and crisis situations
--   Pediatric pain service
--   Pediatric Intensive Care provision
+- 24/7 pediatric anesthesia emergency service
+- Specialized pediatric nursing staff
+- Appropriate equipment for daily routine and critical situations for all targeted age groups
+- Development and implementation of standard operating protocols (SOP) for routine processes and crisis situations
+- Pediatric pain service
+- Pediatric Intensive Care provision
 
 #### District hospitals providing pediatric anesthesia care
 Anesthesia for elective routine operations in otherwise stable and healthy children can be performed in district hospitals by teams with sufficient expertise in pediatric anesthesia. This requires appropriate staffing, equipment, facilities and support services.
@@ -50,15 +50,15 @@ A delay in elective or scheduled procedures may result in avoidable emergency pr
 **This is a mandatory prerequisite for those anesthesiologists** that are willing to provide specialized pediatric care. In countries where a pediatric fellowship program is not established, the European Training Requirements (ETR) should be considered.
 
 ### References
--   RCoA. Guidelines for the Provision of Anaesthesia Services. https://www.rcoa.ac.uk/system/files/GPAS-2019-10-PAEDIATRICS.pdf
--   Habre W, Disma N, Virag K, Becke K, Hansen TG, Jöhr M, Leva B, Morton NS, Vermeulen PM, Zielinska M, Boda K, Veyckemans F. APRICOT Group of the European Society of Anaesthesiology Clinical Trial Network. Incidence of severe critical events in paediatric anaesthesia (APRICOT): a prospective multicentre observational study in 261 hospitals in Europe. Lancet Respir Med. 2017; 5:412-425.2.
--   Auroy Y, Ecoffey C, Messiah A, Rouvier B. Relationship between complications of pediatric anesthesia and volume of pediatric anesthetics. Anesth Analg. 1997; 84: 234-5.
--   Lunn JN. Implications of the National Confidential Enquiry into Perioperative Deaths for pediatric anesthesia. Paediatr Anaesth. 1992; 2: 69--72. 4.
--   Harrison TE, Engelhardt T, MacFarlane F, Flick RP. Regionalization of pediatric anesthesia care: has the time come? Paediatr Anaesth. 2014; 24: 897-8. 5.
--   Whitlock EL, Feiner JR, Chen LL. Perioperative Mortality, 2010 to 2014: A Retrospective Cohort Study Using the National Anesthesia Clinical Outcomes Registry. Anesthesiology. 2015; 123: 1312-21.6.
--   Nunnally ME, O'Connor MF, Kordylewski H, Westlake B, Dutton RP. The incidence and risk factors for perioperative cardiac arrest observed in the national anesthesia clinical outcomes registry. Anesth Analg. 2015; 120: 364-70.7.
--   Weiss M, Bissonette B, Engelhardt T, Soriano S. Anesthetist rather than anesthetics are the threat to baby brains. Paediatr Anaesth 2013;23:881-2.8.
--   Weiss M, Hansen TG, Engelhardt T. Ensuring safe anaesthesia for neonates, infants and young children: what really matters. Arch Dis Child.2016; 101: 650-2.9.
--   Weiss M, Vutskits L, Hansen TG, Engelhardt T. Safe Anesthesia For Every Tot -- The SAFETOTS initiative. Curr Opin Anaesthesiol. 2015; 28:302-7.
--   Hansen TG, Vutskits L, Disma N, Becke-Jakob K, Elfgren J, Frykholm P, Machotta A, Weiss M, Engelhardt T, Safetots Initiative. Harmonising paediatric anaesthesia training in Europe: Proposal of a roadmap. Eur J Anaesthesiol. 2022 Aug 1;39(8):642-645
+- RCoA. Guidelines for the Provision of Anaesthesia Services. https://www.rcoa.ac.uk/system/files/GPAS-2019-10-PAEDIATRICS.pdf
+- Habre W, Disma N, Virag K, Becke K, Hansen TG, Jöhr M, Leva B, Morton NS, Vermeulen PM, Zielinska M, Boda K, Veyckemans F. APRICOT Group of the European Society of Anaesthesiology Clinical Trial Network. Incidence of severe critical events in paediatric anaesthesia (APRICOT): a prospective multicentre observational study in 261 hospitals in Europe. Lancet Respir Med. 2017; 5:412-425.2.
+- Auroy Y, Ecoffey C, Messiah A, Rouvier B. Relationship between complications of pediatric anesthesia and volume of pediatric anesthetics. Anesth Analg. 1997; 84: 234-5.
+- Lunn JN. Implications of the National Confidential Enquiry into Perioperative Deaths for pediatric anesthesia. Paediatr Anaesth. 1992; 2: 69--72. 4.
+- Harrison TE, Engelhardt T, MacFarlane F, Flick RP. Regionalization of pediatric anesthesia care: has the time come? Paediatr Anaesth. 2014; 24: 897-8. 5.
+- Whitlock EL, Feiner JR, Chen LL. Perioperative Mortality, 2010 to 2014: A Retrospective Cohort Study Using the National Anesthesia Clinical Outcomes Registry. Anesthesiology. 2015; 123: 1312-21.6.
+- Nunnally ME, O'Connor MF, Kordylewski H, Westlake B, Dutton RP. The incidence and risk factors for perioperative cardiac arrest observed in the national anesthesia clinical outcomes registry. Anesth Analg. 2015; 120: 364-70.7.
+- Weiss M, Bissonette B, Engelhardt T, Soriano S. Anesthetist rather than anesthetics are the threat to baby brains. Paediatr Anaesth 2013;23:881-2.8.
+- Weiss M, Hansen TG, Engelhardt T. Ensuring safe anaesthesia for neonates, infants and young children: what really matters. Arch Dis Child.2016; 101: 650-2.9.
+- Weiss M, Vutskits L, Hansen TG, Engelhardt T. Safe Anesthesia For Every Tot -- The SAFETOTS initiative. Curr Opin Anaesthesiol. 2015; 28:302-7.
+- Hansen TG, Vutskits L, Disma N, Becke-Jakob K, Elfgren J, Frykholm P, Machotta A, Weiss M, Engelhardt T, Safetots Initiative. Harmonising paediatric anaesthesia training in Europe: Proposal of a roadmap. Eur J Anaesthesiol. 2022 Aug 1;39(8):642-645
 
