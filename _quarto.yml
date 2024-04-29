@@ -22,6 +22,7 @@ website:
    style: "floating"
    search: true
    contents:
+    - index.qmd
     - The Safetots Mission and Story.qmd
     - Rights of the Child 10Rs.qmd
     - Competence 5Ws.qmd
