@@ -64,3 +64,4 @@ wp-content/mysql.sql
 *.wmv
 *.avi
 /.quarto/
+.Rproj.user
