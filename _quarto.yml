@@ -3,46 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Testwebsite"
+  title: "Safetots"
   navbar:
     left:
       - href: Rights of the Child 10Rs.qmd
-  sidebar:
-    style: "floating"
-    search: true
-    contents:
-          - The Safetots Mission and Story.qmd
-          - Rights of the Child 10Rs.qmd
-          - Competence 5Ws.qmd
-          - The 10Ns.qmd
-          - No Fear 10Ns.qmd
-          - Normovolemia 10Ns.qmd
-          - Normotension 10Ns.qmd
-          - Normal Heart Rate 10Ns.qmd
-          - Normoxemia 10Ns.qmd
-          - Normocapnia 10Ns.qmd
-          - Normonatremia 10Ns.qmd
-          - Normoglycemia 10Ns.qmd
-          - Normothermia 10Ns.qmd
-          - No Postoperative Discomfort.qmd
-          - No Pain 10Ns.qmd
-          - No PONV 10Ns.qmd
-          - No Emergence Delirium 10Ns.qmd
-          - Crisis 10Cs.qmd
-          - Cant OxygenateVentilate 10Cs.qmd
-          - Cant Intubate 10Cs.qmd
-          - Can Intubate  Cant Oxygenate 10Cs.qmd
-          - Cant Cannulate  Failed Venous Access 10Cs.qmd
-          - Anaphylaxis 10Cs.qmd
-          - Major Hemorrhage 10Cs.qmd
-          - Perioperative Pulmonary Aspiration 10Cs.qmd
-          - Tonsillar Bleeding 10Cs.qmd
-          - Local Anaesthetic Systemic Toxicity  LAST 10Cs.qmd
-          - Malignant Hyperthermia Crisis  MH 10Cs.qmd
-          - Research.qmd
-          - Quality Improvement.qmd
-          - Parental discussion.qmd
-          - For Parents.qmd
 format:
   html:
     theme: cosmo
