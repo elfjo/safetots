@@ -1,17 +1,410 @@
 ## The 10-Ns
 ![Cartoon of a group of doctors in a hospital Description automatically generated](media/image5.png){width="5.508333333333334in" height="2.8583333333333334in"}
+-   No Fear and No Awareness
+-   Normovolemia
+-   Normotension
+-   Normal Heart Rate
+-   Normoxemia
+-   Normocapnia
+-   Normonatremia
+-   Normoglycemia
+-   Normothermia
+-   No Postoperative Discomfort
+    -   No Pain
+    -   No PONV
+    -   No Emergence Delirium
 
-- No Fear and No Awareness
-- Normovolemia
-- Normotension
-- Normal Heart Rate
-- Normoxemia
-- Normocapnia
-- Normonatremia
-- Normoglycemia
-- Normothermia
-- No Postoperative Discomfort
-    - No Pain
-    - No PONV
-    - No Emergence Delirium
+### No Fear (10Ns)
+
+#### Definition
+Fear: Unpleasant emotion caused by an actual or perceived threat, danger, pain, loss or harm.
+
+#### Importance
+Preoperative anxiety in children may result from the fear of pain, unfamiliar surroundings, a sense of loss of control, the presence of strangers, parental anxiety and many other perceived threats to their world. Some children will openly say they are frightened; others will cry, withdraw, cling to their parents or become agitated.
+
+#### Consequences
+-   anxiety may reduce cooperation; contribute to emergence delirium and increase pain and behavioral disturbances (sleep disturbances or nightmares, enuresis, separation anxiety and increased fear of doctors) after surgery
+-   up to 50% of children will still have these disturbances two weeks after surgery and some several months
+-   the incidence is increased after a stormy anesthetic induction and can be reduced if premedication or other strategies are used to reduce preoperative anxiety
+
+#### Prevention and treatment
+There are 3 strategies that can be used to reduce or moderate anxiety:
+-   age-appropriate psychological preparation/ education (e.g. verbal or written information, video, mobile phone app or tablet-pc, hospital tours and role playing)
+-   parental presence (can be stressful to some parents)
+-   pharmacological premedication (benzodiazepines, α2-agonists, ketamine)
+
+#### Special situations and challenges
+-   the apprehensive child
+-   the combative child
+-   refusal
+-   parental anxiety and expectations
+
+#### Key references
+-   Kain ZN et al. Preoperative psychological preparation of the child for surgery: an update. Anesthesiol Clin N Am 2005; 23: 597-614
+-   Yip P et al. Non-pharmacological intervention for assisting induction of anaesthesia in children. Cochrane Database of Systematic Review 2009; Issue 3. Art. No. CD006447
+-   Rosenbaum A et al. The place of premedication in pediatric practice. Pediatr Anesth 2009; 19: 817-28
+
+### No Awareness (10Ns)
+
+#### Definition
+Postoperative recall of sensory perception during general anesthesia (no consensus definition available).
+
+#### Importance
+-   intraoperative awareness is more common in children (0.5-1.0%) compared to adults (0.1-0.2%)
+-   it may occur in non-paralyzed children without signs of inadequate anesthesia
+-   does not seem to be associated with distress or post-traumatic stress disorders
+-   the reasons for the high incidence in children are not known
+
+#### Consequences
+-   unknown, may have major implications on social life
+**Risk factors include**
+-   drugs (neuromuscular blockade, thiopental, TIVA)
+-   patients (female gender, age (younger adults), obesity, previous awareness, possibly difficult airway management)
+-   subspecialties (obstetric, trauma, cardio-thoracic, neurosurgical)
+-   organizational (out-of-hours surgery, junior anesthetist)
+
+#### Prevention
+-   identify risk factors
+-   proper information preoperatively
+-   consider the use of neuro-monitoring in patients with risk factors -- particularly if previous awareness
+
+#### Treatment
+-   administer benzodiazepines if awareness is suspected
+-   if serious psychological problems occur (flash-backs, nightmares, new anxiety states and depression) the child should be referred to psychological service
+
+#### Key references
+-   Sury M. Accidental awareness during anesthesia in children. Pediatric Anesthesia 2016; 26: 468.
+-   Malviya S et al. The incidence of intraoperative awareness in children: childhood awareness and recall evaluation. Anesth Analg 2009; 109: 1421-7
+
+### Normovolemia (10Ns)
+
+#### Definition
+Maintenance of expected circulating blood volume and body fluid homeostasis of the patient (age dependent).
+
+#### Importance
+Maintenance of physiological body fluid homeostasis is important for normal organ function. Deviations from this equilibrium (hypo- and hypervolemia) are commonly encountered in the peri-operative period.
+
+#### Consequences
+
+#### Hypovolemia
+-   results in hypoperfusion and tissue hypoxia
+-   hypovolemia is the leading cause of perioperative cardiac arrests (POCA) in children
+
+#### Hypervolemia
+-   dilutional coagulopathy
+-   tissue edema
+
+#### Prevention and treatment
+-   preoperative clinical assessment (capillary refill time, urinary output) and correct preoperative disturbances if required
+-   consider using other monitors which may include: invasive pressure monitoring, SvO2, repeated, periodical arterial blood gas analysis (acid base state) and non-invasive cardiac output monitors
+
+#### Hypovolemia
+-   avoid prolonged fasting times which can lead to hypovolemia
+-   correct / minimize pre-operative deficits
+-   sufficient IV access (size and number)
+-   maintenance fluids
+-   blood and coagulation management
+
+#### Hypervolemia
+-   close monitoring and control of fluid administration
+-   correction of intraoperative coagulopathy
+
+#### Key references
+-   Sümpelmann R, Becke K, Brenner S, Breschan C, Eich C, Höhne C, Jöhr M, Kretz FJ, Marx G, Pape L, Schreiber M, Strauss J, Weiss M. Perioperative intravenous fluid therapy in children: guidelines from the Association of the Scientific Medical Societies in Germany. Paediatr Anaesth. 2017 Jan;27(1):10-18. doi: 10.1111/pan.13007.
+
+### Normotension (10Ns)
+
+#### Definition
+Maintenance of expected systemic blood pressure within a normal range of the patient (age dependent).
+So far, the lower limits of acceptable perioperative blood pressure are suggested to be above the 5th percentile range of age dependent normal systolic blood pressure values. In premature neonates the mean arterial blood pressure should correspond to the post-conceptional age in weeks. However, there are no international consensus definitions of safe values of systemic blood pressure in children during anesthesia.
+
+#### Importance
+Deviations from patient specific norms may result in physiologically and clinically relevant impairments of organ and tissue perfusions.
+
+#### Consequences
+A significant change from pre-operatively measured systemic blood pressure values is frequently observed. Deviations can lead to inadequate organ perfusion and damage.
+
+#### Prevention and treatment
+Strive to achieve sufficient organ perfusion:
+-   measure blood pressure correctly and promptly
+-   measure blood pressure regularly and increase frequency when indicated
+-   consider inaccuracy and limitations of non-invasive blood pressure measurements
+-   maintain normovolemia and normal heart rate
+-   appropriate dosing of drugs
+-   compensate for sympathomimetic loss and consider use of vasoactive drugs
+-   consider monitoring perfusion by alternative means
+-   consider the potential inaccuracy and limitations of the measuring device and method
+-   avoid large fluctuations of blood pressure
+-   maintain normothermia, normocapnia and normoxia
+
+#### Key references
+-   Ringer SK, Clausen NG, Spielmann N, Weiss M. Effects of moderate and severe hypocapnia on intracerebral perfusion and brain tissue oxygenation in piglets. Paediatr Anaesth. 2019 Nov;29(11):1114-1121
+-   Ringer SK, Clausen NG, Spielmann N, Ohlerth S, Schwarz A, Weiss M. Effects of moderate and severe arterial hypotension on intracerebral perfusion and brain tissue oxygenation in piglets. Br J Anaesth. 2018 Dec;121(6):1308-1315
+-   "This case series report on 6 infants who underwent elective surgery and developed postoperative encephalopathy caused by intraoperative cerebral hypoperfusion due to hypotension and hypocapnia. Magnetic resonance imaging revealed supratentorial watershed infarction." McCann ME, Schouten AN, Dobija N, Munoz C, Stephenson L, Poussaint TY, Kalkman CJ, Hickey PR, de Vries LS, Tasker RC. Infantile postoperative encephalopathy: perioperative factors as a cause for concern. Pediatrics. 2014 Mar;133(3):e751-7.
+-   "This article deals with anesthetic factors such as hemodynamics and ventilation during perioperative period that may affect cerebral perfusion and neurocognitive outcome. Limitations of blood pressure as a surrogate marker for cerebral perfusion are discussed, as well as the effects of hypocapnia on the brain." McCann ME, Schouten AN. Beyond survival; influences of blood pressure, cerebral perfusion and anesthesia on neurodevelopment. Paediatr Anaesth. 2014 Jan;24(1):68-73
+-   "This review article deals with most recent development on the interpretation of blood pressure measurements in children and the relation of low blood pressure to clinical outcome." de Graaff JC. Intraoperative blood pressure levels in young and anaesthetised children: are we getting any closer to the truth? Curr Opin Anaesthesiol. 2018 Jun;31(3):313-319.
+-   "This review article focuses on the role of blood pressure on organ perfusion during anesthesia in neonates and the importance of optimization of organ perfusion rather than blood pressure." Turner NM. Intraoperative hypotension in neonates: when and how should we intervene? Curr Opin Anaesthesiol. 2015 Jun;28(3):308-13.
+
+### Normal Heart Rate (10Ns)
+
+#### Definition
+Maintenance of expected heart rate within a normal range of the patient (age dependent)
+
+#### Importance
+Autonomic control of the heart rate in utero is mediated predominantly via the parasympathetic nervous system. Just after birth the sympathetic control begins to appear, although the parasympathetic nervous system continues to dominate in childhood decreasing only in adolescence.
+In neonates and infants, the heart rate may have a wide variation that is still within normal limits. The mean heart rate in neonates in the first 24 hours is 120 beats per minute, it increases to a mean of 160 beats per minute at 1 month of age, after which it gradually decreases to 75 beats per min at adolescence (Table 1).
+In young children cardiac output is very much depended on heart rate and any heart rate \< 100 beats per minute should be explored further and treated if necessary.
+In older children, a significant number of arrhythmias and conduction abnormalities are also encountered, with marked fluctuations in heart rate caused by variations in autonomic tone.
+  -----------------------------------------------------------------------   **Age**   Mean heart rate in beats per minute (range)   ----------------- -----------------------------------------------------    Premature    120-170
+   0-3 months   100-150
+  3-6 months    90-120
+   6-12 months   80-120
+   1-3 years    70-110
+    3-6 years   65-110
+   6-12 years   60-95
+    \> 12 years 55-85   -----------------------------------------------------------------------
+Table 1. The relationship between age and heart rate
+
+#### Consequences
+Acute deviations from patient specific norms may result in physiologically and clinically relevant impairments of organ and tissue perfusions
+
+#### Prevention and treatment
+Strive to achieve sufficient organ perfusion:
+-   monitor heart rate appropriately
+-   identify and treat underlying causes for bradycardia (hypoxemia, hypotension, drug errors, reflexes)
+-   prepare / administer epinephrine and/ or anticholinergics
+-   perform external cardiac compression in children if acute bradycardia (\< 60 bpm) and with signs of poor perfusion occurs
+
+#### Key references
+-   Richards JM et al. Sequential 22-hour profiles of breathing pattern and heart rate in full-term infants during their first 6 months of life. Pediatrics 1984; 74: 763-77
+-   Hartman ME, Cheifetz IM. Pediatric emrgencies and resuscitation. In: Kliegman RM, Stanton ST, Gerne III, Schor NF, Behrman RE (eds). Nelson Textbook of Pediatrics 20 Ed. Philadelphina Elsevier 2016.
+
+### Normoxemia (10Ns)
+
+#### Definition
+Normal oxygen tension in the blood. Adequate oxygen supply permits aerobic metabolism.
+
+#### Importance
+**Hypoxemia** is commonly encountered during pediatric anesthesia. Prolonged hypoxemia may lead to adverse short and long-term outcomes.
+**Hyperoxemia** is iatrogenic and may result in the production of reactive oxygen species affecting normal organ function.
+
+#### Consequences
+Acute and chronic changes in oxygen tensions results in physiologically and clinically relevant tissue perfusion and organ dysfunction.
+
+#### Hypoxemia
+Hypoxemia may result in severe tissue hypoxia, bradycardia, cerebral and other organ hypoperfusion.
+
+#### Hyperoxemia
+Prolonged hyperoxemia may affect organ development and function such as retinopathy of prematurity and bronchopulmonary dysplasia.
+
+#### Prevention
+-   aim to achieve adequate oxygen tensions
+-   acute hypoxia is commonly a result of difficulties and critical incidences during airway and ventilation management
+**Prevention requires:**
+-   regular teaching and training
+-   equipment and drugs
+-   suitable staffing
+-   assessment und preparation of patient
+-   local algorithms for the (un)expected / risky airway difficulties should be established.
+-   establish regulation for delivery of adequate FiO2 and ventilation management
+
+#### Key references
+-   Habre W, Peták F. Perioperative use of oxygen: variabilities across age. Br J Anaesth. 2014 Dec;113 Suppl 2:ii26-36.
+
+### Normocapnia (10Ns)
+
+#### Definition
+Maintenance of expected arterial carbon dioxide tension.
+
+#### Importance
+Blood arterial carbon dioxide tensions are modified during anesthesia. Changes in arterial carbon dioxide tensions significantly affect body homeostasis including the acid-base status, the sympathomimetic tone and organ blood flow.
+
+#### Consequences
+Acute and chronic changes in arterial carbon dioxide tensions lead to short- and long-term outcomes:
+-   modulation of vasoreactivity
+-   central nervous system damage
+-   neuro-behavioral changes
+
+#### Prevention and treatment
+-   aim to achieve adequate carbon dioxide tensions
+-   acute changes in carbon dioxide tensions are commonly a result of difficulties and critical incidences during airway and ventilation management.
+**Prevention requires:**
+-   regular teaching and training of ventilation strategies
+-   consider limitations of monitoring and airway equipment
+-   use cuffed endotracheal tubes if appropriate
+-   recognize discrepancies between arterial and end-tidal carbon dioxide tensions
+-   Establish regulation for delivery of adequate ventilation management
+-   Avoid acute high amplitude fluctuations of arterial carbon dioxide tension
+
+#### Key references
+-   Ringer SK, Clausen NG, Spielmann N, Weiss M. Effects of moderate and severe hypocapnia on intracerebral perfusion and brain tissue oxygenation in piglets. Paediatr Anaesth. 2019 Nov;29(11):1114-1121
+-   Rhondali O, Juhel S, Mathews S, Cellier Q, Desgranges FP, Mahr A, De Queiroz M, Pouyau A, Rhzioual-Berrada K, Chassard D. Impact of sevoflurane anesthesia on brain oxygenation in children younger than 2 years. Paediatr Anaesth. 2014 Jul;24(7):734-40.
+
+### Normonatremia (10Ns)
+
+#### Definition
+Normal plasma sodium concentration within the age specific range.
+
+#### Importance
+Plasma sodium is the major determinant of serum osmolality and therefore extracellular fluid volume. It is also a major determinant of neuronal excitability. Acute perioperative changes in plasma sodium concentrations are a leading cause of avoidable morbidity and mortality in children.
+
+#### Consequences
+-   acute and severe hyponatremia may result in neurological damage and death (cerebral edema, seizures, transtentorial herniation)
+-   rapid correction of hyponatremia may result in pontine myelinolysis.
+
+#### Prevention and treatment
+-   consider the need for prolonged parenteral fluid administration
+-   use balanced isotonic solutions
+-   regular perioperative assessment sodium if continuous fluid therapy
+-   avoid acute fluctuations of plasma sodium concentrations
+
+#### Key references
+-   Sümpelmann R, Becke K, Brenner S, Breschan C, Eich C, Höhne C, Jöhr M, Kretz FJ, Marx G, Pape L, Schreiber M, Strauss J, Weiss M. Perioperative intravenous fluid therapy in children: guidelines from the Association of the Scientific Medical Societies in Germany. Paediatr Anaesth. 2017 Jan;27(1):10-18.
+-   NICE guidelines: Intravenous fluid therapy in children and young people in hospital
+-   The Inquiry into hyponatremia-related deaths. Last accessed 5/2019
+-   Lönnqvist PA. Inappropriate perioperative fluid management in children: time for a solution?! Paediatr Anaesth. 2007; 17:203-5.
+
+### Normoglycemia (10Ns)
+
+#### Definition
+Normal blood glucose concentration within the age specific normal range.
+
+#### Importance
+Blood glucose homeostasis is important for ensuring a continuing energy supply and stable plasma osmolality. Small infants have reduced glycogen storage capacity and hence have a limited ability to maintain blood glucose concentrations during periods of fasting.
+
+#### Consequences
+Acute and chronic changes in blood glucose concentrations have significant consequences to the perioperative outcome.
+
+#### Hypoglycemia
+-   irritability
+-   seizures
+-   hemodynamic instability
+-   coma, death
+
+#### Hyperglycemia
+-   hyperosmolality
+-   ketoacidosis
+-   polyuria and dehydration and
+-   seizures, death
+
+#### Prevention and treatment
+-   awareness of fasting and nutrition status of the patient, minimize preoperative fasting times
+-   perioperative (surgical) stress reduction (analgesia and body temperature control)
+-   situation appropriate monitoring (neonates, critically ill children) and investigations
+-   consider isotonic glucose containing perioperative intravenous solutions especially in preterm, neonates and small infants, patient on total parental nutrition (TPN) and critically ill patients
+-   patients with inherited and acquired endocrine or glucose dependent metabolic disorders require special attention and workup
+-   prompt and appropriate treatment of significant hypo- and hyperglycemia
+
+#### Key references
+-   Sümpelmann R, Becke K, Brenner S, Breschan C, Eich C, Höhne C, Jöhr M, Kretz FJ, Marx G, Pape L, Schreiber M, Strauss J, Weiss M. Perioperative intravenous fluid therapy in children: guidelines from the Association of the Scientific Medical Societies in Germany. Paediatr Anaesth. 2017 Jan;27(1):10-18.
+
+### Normothermia (10Ns)
+
+#### Definition
+Body temperature within the normal physiological range
+
+#### Importance and Consequences
+**Hypothermia** is a common problem in children exposed to anesthetic drugs -- especially in the youngest age groups. Hypothermia during anesthesia has many harmful consequences and may trigger multiple physiological changes (increased metabolic rate and oxygen consumption, prolonged bleeding time and increased risk for postoperative infection) and influence the pharmacokinetic and --dynamics of anesthetics.
+**Hyperthermia** most commonly occurs because of iatrogenic overheating and failure to decrease the temperature of the exogenous heat source in the face of an increasingly body temperature. Other causes of hyperthermia include malignant hyperthermia, thyrotoxicosis and sepsis.
+
+#### Prevention and Treatment
+Temperature can be monitored in the axilla, bladder, nasopharynx, esophagus, rectum, tympanic membrane and the skin. Core temperature is most accurately measured on the tympanic membrane or the esophagus.
+Core temperature monitoring should be monitored in procedures lasting more than 30 min with an effort to maintain temperature \> 36°C. External forced-air warming should be used to prevent hypothermia. Ambient temperature should be maintained between 21°and 26°C with a relative humidity level of 40-60%. IV solutions should be considered warmed to 38°C in high risk cases.
+
+#### Key references
+-   Sessler DI. Temperature monitoring and perioperative thermoregulation. Anesthesiology 2008; 109: 318-38
+-   Sessler DI. Forced-air warming in infants and children. Pediatr Anesth 2013; 23: 467-8
+-   Witt L et al. Prevention of intraoperative hypothermia in neonates and infants: results of a prospective multicenter observational study with a new forced-air warming system with increased warm air flow. Pediatr Anesth 2013, 23: 469-74
+
+### No Postoperative Discomfort
+
+### No Pain (10Ns)
+It refers to the concept No Postoperative Discomfort
+
+#### Definition
+Unpleasant sensory and emotional experience associated with actual or potential tissue damage or described in terms of such.
+
+#### Importance
+A large number of children still experience significant pain in the perioperative period. Poor pain control remains a significant problem following hospital discharge.
+
+#### Consequences
+Inadequate peri-operative pain control can lead to a variety of behavioral and somatic changes.
+**These include:**
+-   altered behavior (emotional)
+-   subsequent altered pain perception
+-   prolonged hospital stays and increased re-admission rates
+-   chronic pain
+-   negative parental perception
+-   social consequences
+
+#### Good Practice Points
+-   regularly assess pain in all children to "make pain visible"
+-   chart pain as a vital sign
+-   ensure clear appropriate protocols to bring pain scores down and to maintain low pain scores
+-   reassess pain after analgesic interventions to ensure efficacy and to minimize side effects (titration)
+-   use multimodal analgesia and opioid-sparing techniques where possible and as appropriate
+-   ensure continuing analgesia at home
+
+#### Follow-Up/ Outcome
+-   audit pain assessments, high pain scores and pain at home and plan QI initiatives
+-   audit adverse effects, critical incidents and drug errors and make plans to reduce incidence
+
+#### Key references
+-   "These are the 2nd edition of the APAGBI evidence-based guidelines on pain management in children from 2012. They provide detailed reviews of pain assessment, non-pharmacological and pharmacological methods of pain management for all ages of children undergoing surgery or procedures." APAGBI. Good practice in postoperative and procedural pain management (2nd Edition). Paediatr Anaesth. 2012 Jul;22 Suppl 1:1-79. doi: 10.1111/j.1460-9592.2012.03838.x
+-   "This is the most comprehensive evidence-based resource on pain physiology, psychology, pharmacology, assessment and management currently available. The paediatric recommendations in Chapter 9 are excellent and highly recommended." Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute pain management: scientific evidence, fourth edition, 2015. Med J Aust. 2016 May 2;204(8):315-7. http://fpm.anzca.edu.au/documents/apmse4*2015*fina
+-   "These are the UK national procedural sedation guidelines from 2010. The full guidelines and supporting documentation are free to download. The principles described support safe practice but some regard the practice as somewhat conservative. An update is due in 2020." Sury M, Bullock I, Rabar S, Demott K; Guideline Development Group. Sedation in children and young people. Sedation for diagnostic and therapeutic procedures in children and young people. BMJ. 2010 Dec 16;341:c6819. https://www.nice.org.uk/guidance/cg11
+-   "This document summarises good practice guidance from ESPA to try to improve paediatric pain management across Europe." Vittinghoff M et al. Postoperative pain management in children: Guidance from the pain committee of the European Society for Paediatric Anaesthesiology (ESPA Pain Management Ladder Initiative). Paediatr Anaesth. 2018 Jun;28(6):493-506. doi: 10.1111/pan.13373. Epub 2018 Apr 10
+-   "These are very comprehensive evidence-based guidelines that give practical advice on how to recognise and assess pain in children. There are useful algorithms and posters to help introduce these ideas into your hospital." Royal College of Nursing. The recognition and assessment of acute pain in children. 2009. https://www.rcn.org.uk/professional-development/publications/pub-00354
+
+### No PONV (10Ns)
+
+#### Definition
+The term PONV is used to describe nausea and/ or vomiting or retching in the immediate 24 postoperative hours.
+
+#### Importance
+Children undergoing anesthesia and surgery are at high risk for PONV. PONV leads to additional discomfort, morbidity and costs.
+
+#### Consequences
+PONV is an unpleasant experience resulting in a variety of significant consequences which include:
+-   additional burden for the child, parents, clinician and nurses
+-   increased postoperative morbidity, pain, dehydration and surgical complications
+-   delayed discharge and increased re-admission
+-   additional medication and increased workload
+
+#### Good Practice Points
+-   assess risk factors from patient history, type of surgery and type of anesthesia
+-   establish local standard operating protocols for the prevention and treatment of PONV according to current evidence-based guidelines (see below)
+-   be aware of factors unrelated to current condition which could cause or exacerbate PONV (intestinal, brain, hypotension, allergic reaction, drug side effects)
+
+#### Follow-Up/ Outcome
+-   audit incidence and severity of PONV
+-   audit use of antiemetic protocols and compliance with protocols
+-   QI initiatives to reduce in-hospital and post-discharge PONV
+
+#### Key references
+-   "This is the 2nd edition of the APAGBI evidence-based guidelines on prevention of postoperative vomiting in children from 2016. It gives practical well-founded advice on how to identify those paediatric patients most at risk for PONV, how to prevent PONV using commonly available drugs and how to treat PONV once it has occurred. Other techniques are also reviewed which may be helpful in individual cases even though the evidence for their efficacy is less robust." APAGBI. Guidelines on the prevention of postoperative vomiting in children. 2016. Link
+
+### No Emergence Delirium (10Ns)
+
+#### Definition
+Emergence delirium is part of an early negative postoperative behavior. It is an abnormal mental state following anesthesia and surgery and separate to pain.
+
+#### Importance
+Emergence delirium is common following general anesthesia in young children. Effective recognition and treatment is essential to reduce self-inflicted injuries and improve satisfaction of parents and caregivers.
+
+#### Consequences
+Emergence delirium may result in self-injury of the child and increase the healthcare requirements:
+-   emergence delirium reduces parental and caregivers' satisfaction
+-   short- and long-term psychological implications of emergence delirium are unclear
+-   children with emergence delirium may have a higher risk of developing separation anxiety, apathy, and sleep and eating disorders
+
+#### Good practice points
+-   be aware of risk factors and triggers
+-   ensure appropriate information for child and parents is given in advance
+-   effective local standardized protocols for prevention, recognition and treatment including non-drug treatment and involvement of parents in recovery process after anesthesia
+
+#### Key references
+-   "This educational article defines Emergence Delirium and details the incidence, causes, risk factors and methods of measurement. Preventative strategies and treatment options are described clearly." Reduque LL, Verghese ST. Paediatric emergence delirium. Continuing Education in Anaesthesia Critical Care & Pain, Volume 13, Issue 2, April 2013, Pages 39--41, https://doi.org/10.1093/bjaceaccp/mks051
+-   "This is a detailed single-author review of the state of the art regarding emergence delirium as of 2017." Mason KP. Paediatric emergence delirium: a comprehensive review and interpretation of the literature. Br J Anaesth. 2017 Mar 1;118(3):335-343. doi: 10.1093/bja/aew477
+-   Line Gry Larsen, Marie Wegger, Sebastian Lé Greves, Liv Erngaard, Tom G Hansen. Emergence agitation in paediatric day case surgery: A randomised, single-blinded study comparing narcotrend and heart rate variability with standard monitoring. Eur J Anaesthesiol. 2022 Mar 1;39(3):261-268.
 

@@ -16,7 +16,7 @@ Children who have complex surgery or longer procedures may also be more at risk 
 
 ### What sort of problems can occur and how common are they?
 This table gives an idea of risks and how often they might occur.
-  ----------------------------------------------------------------------- Risk    Risk level    Description   ------------------- ------------- ------------------------------------- Restlessness    1 in 10   Very common ("someone in your         family")
+  -----------------------------------------------------------------------   Risk    Risk level    Description   ------------------- ------------- -------------------------------------   Restlessness    1 in 10   Very common ("someone in your         family")
   Sickness    1 in 10   Very common 
   Dizziness   1 in 10   Very common
   Headache    1 in 100  Common ("someone in a street")
@@ -45,21 +45,24 @@ Absolutely. Evidence of qualiﬁcations, training, and experience should be avai
 ### What can I as a parent do to help my child?
 Being present to give information and comfort to your child are helpful although it can be stressful for you.
 
+----
+
+
 ### Where can I get more information or help? 
 Follow these useful links to up to date information and advice.
 
 #### Rights of the child 
-- EACH Charter
-- Information about anesthesia for children, young people and families
-- Information for children, carers and parents. Royal College of Anesthetists.
-- What is a pediatric anesthesiologist? Healthchildren.org
-- Useful information for those children with learning difficulties
-- My Daycase Operation -- A Resource for Children with Learning Difficulty. Royal College of Anesthetists.
-- Hospital Procedures. WidgitHealth
-- Information about risks of anesthesia
+-   EACH Charter
+-   Information about anesthesia for children, young people and families
+-   Information for children, carers and parents. Royal College of Anesthetists.
+-   What is a pediatric anesthesiologist? Healthchildren.org
+-   Useful information for those children with learning difficulties
+-   My Daycase Operation -- A Resource for Children with Learning Difficulty. Royal College of Anesthetists.
+-   Hospital Procedures. WidgitHealth
+-   Information about risks of anesthesia
 
 #### Risks associated with anaesthesia. RCOA
-- Risks associated with anaesthesia. Association of Anaesthetists UK.
-- Joint professional guidance on the use of general anaesthesia in young children. APA, RCOA, AAGBI, CAI
-- Hansen TG. Use of anaesthetics in young children: Consensus statement of the European Society of Anaesthesiology (ESA), the European Society for Paediatric Anaesthesiology (ESPA), the European Association of Cardiothoracic Anaesthesiology (EACTA) and the European Safe Tots Anaesthesia Research Initiative (EuroSTAR). Eur J Anaesthesiol. 2017 Jun;34(6):327-328. 
+-   Risks associated with anaesthesia. Association of Anaesthetists UK.
+-   Joint professional guidance on the use of general anaesthesia in young children. APA, RCOA, AAGBI, CAI
+-   Hansen TG. Use of anaesthetics in young children: Consensus statement of the European Society of Anaesthesiology (ESA), the European Society for Paediatric Anaesthesiology (ESPA), the European Association of Cardiothoracic Anaesthesiology (EACTA) and the European Safe Tots Anaesthesia Research Initiative (EuroSTAR). Eur J Anaesthesiol. 2017 Jun;34(6):327-328. 
 
