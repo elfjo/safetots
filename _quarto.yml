@@ -12,17 +12,15 @@ website:
    style: "floating"
    search: true
    contents:
-          - The Safetots Mission and Story.qmd
-          - Rights of the Child 10Rs.qmd
-          - Competence 5Ws.qmd
-          - The 10Ns.qmd
-          - No Fear 10Ns.qmd
-          - Normovolemia 10Ns.qmd
-          - Normotension 10Ns.qmd
-          - Normal Heart Rate 10Ns.qmd
-          - Normoxemia 10Ns.qmd
-          - Normocapnia 10Ns.qmd
-          - Normonatremia 10Ns.qmd
+    - The Safetots Mission and Story.qmd
+    - Rights of the Child 10Rs.qmd
+    - Competence 5Ws.qmd
+    - The 10Ns.qmd
+    - Crisis 10Cs.qmd
+    - Research.qmd
+    - Quality Improvement.qmd
+    - Parental discussion.qmd
+    - For Parents.qmd
 
 
 format:
