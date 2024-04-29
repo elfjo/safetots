@@ -2,6 +2,7 @@
 ![A close-up of a child Description automatically generated](media/image3.png){width="5.508333333333334in" height="2.6909722222222223in"}
 Children's rights are human rights. In 1989 the United Nations declared the Convention of the Rights of Children \[1\], promoting the rights and the protection of children to develop their full potential, free from hunger and want, neglect and abuse.
 Article 24 of the UN's Convention of the Rights of Children addresses the rights and the special demands of children in health care institutions recognizing that children are especially vulnerable.
+
 The EACH Charter (1988)3 recognizes and endorses the rights of the child as stipulated in the UN Convention on the Rights of the Child (UNCRC), and in particular the key principle that, in all situations, the best interests of the child should prevail (art.3).
 As commitment to the Convention of the Rights of Children and The EACH Charter the Safetots.org initiative adjusted this to the perioperative situation and issued the following 10 Rights (10 R).
 
@@ -43,5 +44,5 @@ Although this may not always be possible or appropriate, the view of the child a
 3.  European Association for Children in Hospital (EACH), EACH-Charter (art. 2). https://www.each-for-sick-children.org/each-charter/each-charter-annotations (last accessed 2/2019)
 4.  Markus Weiss, Andreas Machotta. Quality and safe anesthesia for all children : That is their right!. Anaesthesist 2022 Apr;71(4):255-263. doi: 10.1007/s00101-022-01111-0. Epub 2022 Mar 28.
 5.  Kristian Noerholm Jensen, Tom Giedsing Hansen. Children undergoing anaesthesia: what are the rights of the child? Signavitae Vol.17, Issue 4, July 2021 pp.203-207. doi: 10.22514/sv.2021.059. Signavitae Open Access
-6.  Machotta A, Hansen TG, Weiss M; on behalf of the Safetots Initiative. Children's rights -* the basis of quality in pediatric anesthesia. Curr Opin Anaesthesiol. 2023 Jun 1;36(3):295-300.
+6.  Machotta A, Hansen TG, Weiss M; on behalf of the Safetots Initiative. Children's rights -- the basis of quality in pediatric anesthesia. Curr Opin Anaesthesiol. 2023 Jun 1;36(3):295-300.
 

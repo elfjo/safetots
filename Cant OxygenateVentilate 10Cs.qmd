@@ -5,20 +5,20 @@ This page is part of the Safetots Crisis SOPs, a framework for prevention and tr
 Can't oxygenate-ventilate situations in children are common and are usually due to functional and/or anatomical airway obstructions. Early recognition and treatment with appropriate skills, equipment and drugs can overcome these situations in otherwise healthy children.
 
 ### Background
-* most common complication with potential serious morbidity and mortality
-* most frequent complication in otherwise healthy children
-* often associated with lack of skills, knowledge, education, training, experience and the use of age inappropriate equipment
-* infants and toddlers at particular risk
-* high risk surgeries (ENT)
+- most common complication with potential serious morbidity and mortality
+- most frequent complication in otherwise healthy children
+- often associated with lack of skills, knowledge, education, training, experience and the use of age inappropriate equipment
+- infants and toddlers at particular risk
+- high risk surgeries (ENT)
 
 ### Prevention
 
 #### Identify children at risk
-* the child with acute airway infection, bronchial hyperactivity, asthma, allergic predisposition
-* premature, neonates, infants and toddlers
-* history, signs and symptoms predictive for difficult airway
-* obstructive sleep apnea syndrome (OSAS)
-* acquired and congenital airway abnormalities and diseases
+- the child with acute airway infection, bronchial hyperactivity, asthma, allergic predisposition
+- premature, neonates, infants and toddlers
+- history, signs and symptoms predictive for difficult airway
+- obstructive sleep apnea syndrome (OSAS)
+- acquired and congenital airway abnormalities and diseases
 
 #### Strict transfer policy regarding children at risk
 
@@ -26,34 +26,34 @@ Can't oxygenate-ventilate situations in children are common and are usually due 
 
 #### Infrastructure and competence
 Anesthesia for children should be undertaken or supervised by anesthetists who have undergone appropriate education, training and experience
-* suitable anesthesia environment
-* appropriate patient positioning
-* basic age specific airway equipment
-* appropriate depth of anesthesia
-* immediate access to emergency drugs (prepared)
-* pre-oxygenation as appropriate and accepted by patient
+- suitable anesthesia environment
+- appropriate patient positioning
+- basic age specific airway equipment
+- appropriate depth of anesthesia
+- immediate access to emergency drugs (prepared)
+- pre-oxygenation as appropriate and accepted by patient
 
 ### Treatment
-* recognize and treat anatomical/mechanical airway obstruction
-* call for help early
-* recognize and treat functional airway obstruction
-* exclude and treat foreign body airway obstruction
-* perform endotracheal intubation / insert laryngeal mask airway
-* (Can't oxygenate, can't intubate (COCI) -* invasive oxygenation/ ventilation via front of neck airway)
-* Post Care
-* debriefing is essential (patient, parent, staff)
-* ensure good documentation (patient records, alert card, bracelet)
+- recognize and treat anatomical/mechanical airway obstruction
+- call for help early
+- recognize and treat functional airway obstruction
+- exclude and treat foreign body airway obstruction
+- perform endotracheal intubation / insert laryngeal mask airway
+- (Can't oxygenate, can't intubate (COCI) -- invasive oxygenation/ ventilation via front of neck airway)
+- Post Care
+- debriefing is essential (patient, parent, staff)
+- ensure good documentation (patient records, alert card, bracelet)
 
 ### References
-* Engelhardt T, Fiadjoe JE, Weiss M, Baker P, Bew S, Echeverry Marín P, von Ungern-Sternberg BS. A framework for the management of the pediatric airway. Paediatr Anaesth. 2019 Oct;29(10):985-992
-* Paterson N, Waterhouse P. Risk in pediatric anesthesia. Paediatr Anaesth 2011; 21: 848-57.
-* Mir Ghassemi A, Neira V, Ufholz LA, Barrowman N, Mulla J, Bradbury CL, Bould MD. Systematic review and meta-analysis of acute severe complications of pediatric anesthesia. Paediatr Anaesth 2015; 25: 1093-1002.
-* Weiss M, Engelhardt T. Proposal for the management of the unexpected difficult pediatric airway. Paediatr Anaesth 2010; 20: 454-64.
-* Weiss M, Schmidt J, Eich Ch et al. Handlungsempfehlung zur Prävention und Behandlung des unerwartet schwierigen Atemwegs in der Kinderanästhesie. Anästh Intensivmed 2011; 52: S54-S63.
-* Engelhardt T, Machotta A, Weiss M. Management strategies for the difficult paediatric airway. Trends in Anaesthesia and Critical Care 2013; 3: 183-7.
-* BlackAE, Flynn PE, Smith HL, ThomasML, WilkinsonKA; Association of Pediatric Anaesthetists of Great Britain and Ireland. Development of a guideline for the management of the unanticipated difficult airway in pediatric practice. Paediatr Anaesth. 2015; 25: 346-62.
-* Weiss M, Engelhardt Cannot ventilate--paralyze! Paediatr Anaesth. 2012; 22: 1147-9.
-* Both CP, Diem B, Alonso E, Kemper M, Weiss M, Schmidt AR, Deisenberg M, Thomas J. Rabbit training model for establishing an emergency front of neck airway in children. Br J Anaesth. 2021 Apr;126(4):896-902.
-* Hsu G, von Ungern-Sternberg BS, Engelhardt T. Pediatric airway management. Curr Opin Anaesthesiol. 2021 Jun 1;34(3):276-283
-* Thomas J, Alonso E, Wendel Garcia PD, Diem B, Kemper M, Weiss M, Both CP. Cuffed versus uncuffed tracheal tubes in a rabbit training model for establishing an emergency front-of-neck airway in infants: a prospective trial. Br J Anaesth. 2022 Feb;128(2):382-390.
+- Engelhardt T, Fiadjoe JE, Weiss M, Baker P, Bew S, Echeverry Marín P, von Ungern-Sternberg BS. A framework for the management of the pediatric airway. Paediatr Anaesth. 2019 Oct;29(10):985-992
+- Paterson N, Waterhouse P. Risk in pediatric anesthesia. Paediatr Anaesth 2011; 21: 848-57.
+- Mir Ghassemi A, Neira V, Ufholz LA, Barrowman N, Mulla J, Bradbury CL, Bould MD. Systematic review and meta-analysis of acute severe complications of pediatric anesthesia. Paediatr Anaesth 2015; 25: 1093-1002.
+- Weiss M, Engelhardt T. Proposal for the management of the unexpected difficult pediatric airway. Paediatr Anaesth 2010; 20: 454-64.
+- Weiss M, Schmidt J, Eich Ch et al. Handlungsempfehlung zur Prävention und Behandlung des unerwartet schwierigen Atemwegs in der Kinderanästhesie. Anästh Intensivmed 2011; 52: S54-S63.
+- Engelhardt T, Machotta A, Weiss M. Management strategies for the difficult paediatric airway. Trends in Anaesthesia and Critical Care 2013; 3: 183-7.
+- BlackAE, Flynn PE, Smith HL, ThomasML, WilkinsonKA; Association of Pediatric Anaesthetists of Great Britain and Ireland. Development of a guideline for the management of the unanticipated difficult airway in pediatric practice. Paediatr Anaesth. 2015; 25: 346-62.
+- Weiss M, Engelhardt Cannot ventilate--paralyze! Paediatr Anaesth. 2012; 22: 1147-9.
+- Both CP, Diem B, Alonso E, Kemper M, Weiss M, Schmidt AR, Deisenberg M, Thomas J. Rabbit training model for establishing an emergency front of neck airway in children. Br J Anaesth. 2021 Apr;126(4):896-902.
+- Hsu G, von Ungern-Sternberg BS, Engelhardt T. Pediatric airway management. Curr Opin Anaesthesiol. 2021 Jun 1;34(3):276-283
+- Thomas J, Alonso E, Wendel Garcia PD, Diem B, Kemper M, Weiss M, Both CP. Cuffed versus uncuffed tracheal tubes in a rabbit training model for establishing an emergency front-of-neck airway in infants: a prospective trial. Br J Anaesth. 2022 Feb;128(2):382-390.
 

@@ -12,22 +12,23 @@ A significant change from pre-operatively measured systemic blood pressure value
 
 ### Prevention and treatment
 Strive to achieve sufficient organ perfusion:
-* measure blood pressure correctly and promptly
-* measure blood pressure regularly and increase frequency when indicated
-* consider inaccuracy and limitations of non-invasive blood pressure measurements
-* maintain normovolemia and normal heart rate
-* appropriate dosing of drugs
-* compensate for sympathomimetic loss and consider use of vasoactive drugs
-* consider monitoring perfusion by alternative means
-* consider the potential inaccuracy and limitations of the measuring device and method
-* avoid large fluctuations of blood pressure
-* maintain normothermia, normocapnia and normoxia
+
+- measure blood pressure correctly and promptly
+- measure blood pressure regularly and increase frequency when indicated
+- consider inaccuracy and limitations of non-invasive blood pressure measurements
+- maintain normovolemia and normal heart rate
+- appropriate dosing of drugs
+- compensate for sympathomimetic loss and consider use of vasoactive drugs
+- consider monitoring perfusion by alternative means
+- consider the potential inaccuracy and limitations of the measuring device and method
+- avoid large fluctuations of blood pressure
+- maintain normothermia, normocapnia and normoxia
 
 ### Key references
-* Ringer SK, Clausen NG, Spielmann N, Weiss M. Effects of moderate and severe hypocapnia on intracerebral perfusion and brain tissue oxygenation in piglets. Paediatr Anaesth. 2019 Nov;29(11):1114-1121
-* Ringer SK, Clausen NG, Spielmann N, Ohlerth S, Schwarz A, Weiss M. Effects of moderate and severe arterial hypotension on intracerebral perfusion and brain tissue oxygenation in piglets. Br J Anaesth. 2018 Dec;121(6):1308-1315
-* "This case series report on 6 infants who underwent elective surgery and developed postoperative encephalopathy caused by intraoperative cerebral hypoperfusion due to hypotension and hypocapnia. Magnetic resonance imaging revealed supratentorial watershed infarction." McCann ME, Schouten AN, Dobija N, Munoz C, Stephenson L, Poussaint TY, Kalkman CJ, Hickey PR, de Vries LS, Tasker RC. Infantile postoperative encephalopathy: perioperative factors as a cause for concern. Pediatrics. 2014 Mar;133(3):e751-7.
-* "This article deals with anesthetic factors such as hemodynamics and ventilation during perioperative period that may affect cerebral perfusion and neurocognitive outcome. Limitations of blood pressure as a surrogate marker for cerebral perfusion are discussed, as well as the effects of hypocapnia on the brain." McCann ME, Schouten AN. Beyond survival; influences of blood pressure, cerebral perfusion and anesthesia on neurodevelopment. Paediatr Anaesth. 2014 Jan;24(1):68-73
-* "This review article deals with most recent development on the interpretation of blood pressure measurements in children and the relation of low blood pressure to clinical outcome." de Graaff JC. Intraoperative blood pressure levels in young and anaesthetised children: are we getting any closer to the truth? Curr Opin Anaesthesiol. 2018 Jun;31(3):313-319.
-* "This review article focuses on the role of blood pressure on organ perfusion during anesthesia in neonates and the importance of optimization of organ perfusion rather than blood pressure." Turner NM. Intraoperative hypotension in neonates: when and how should we intervene? Curr Opin Anaesthesiol. 2015 Jun;28(3):308-13.
+- Ringer SK, Clausen NG, Spielmann N, Weiss M. Effects of moderate and severe hypocapnia on intracerebral perfusion and brain tissue oxygenation in piglets. Paediatr Anaesth. 2019 Nov;29(11):1114-1121
+- Ringer SK, Clausen NG, Spielmann N, Ohlerth S, Schwarz A, Weiss M. Effects of moderate and severe arterial hypotension on intracerebral perfusion and brain tissue oxygenation in piglets. Br J Anaesth. 2018 Dec;121(6):1308-1315
+- "This case series report on 6 infants who underwent elective surgery and developed postoperative encephalopathy caused by intraoperative cerebral hypoperfusion due to hypotension and hypocapnia. Magnetic resonance imaging revealed supratentorial watershed infarction." McCann ME, Schouten AN, Dobija N, Munoz C, Stephenson L, Poussaint TY, Kalkman CJ, Hickey PR, de Vries LS, Tasker RC. Infantile postoperative encephalopathy: perioperative factors as a cause for concern. Pediatrics. 2014 Mar;133(3):e751-7.
+- "This article deals with anesthetic factors such as hemodynamics and ventilation during perioperative period that may affect cerebral perfusion and neurocognitive outcome. Limitations of blood pressure as a surrogate marker for cerebral perfusion are discussed, as well as the effects of hypocapnia on the brain." McCann ME, Schouten AN. Beyond survival; influences of blood pressure, cerebral perfusion and anesthesia on neurodevelopment. Paediatr Anaesth. 2014 Jan;24(1):68-73
+- "This review article deals with most recent development on the interpretation of blood pressure measurements in children and the relation of low blood pressure to clinical outcome." de Graaff JC. Intraoperative blood pressure levels in young and anaesthetised children: are we getting any closer to the truth? Curr Opin Anaesthesiol. 2018 Jun;31(3):313-319.
+- "This review article focuses on the role of blood pressure on organ perfusion during anesthesia in neonates and the importance of optimization of organ perfusion rather than blood pressure." Turner NM. Intraoperative hypotension in neonates: when and how should we intervene? Curr Opin Anaesthesiol. 2015 Jun;28(3):308-13.
 

@@ -8,35 +8,35 @@ Major perioperative hemorrhage is the leading cause of severe morbidity and mort
 Unexpected major surgical hemorrhage is the leading cause for perioperative cardiac arrests in children. Morbidity and mortality during major hemorrhage is related to insufficient venous access, inadequate monitoring, underestimation of blood loss, lack of control of clotting and access to blood products.
 
 ### Prevention
-* know your patient
-* know your surgeon and intended procedure
-* smart choice of number and type of vascular access and monitoring
-* maintain normovolemia, look for signs of hypovolemia (capillary refill time, arterial pulse wave)
-* consider clotting and hemostasis
-* be prepared for the unexpected sudden blood loss (fluids, blood, equipment for intraosseous access, epinephrine)
+- know your patient
+- know your surgeon and intended procedure
+- smart choice of number and type of vascular access and monitoring
+- maintain normovolemia, look for signs of hypovolemia (capillary refill time, arterial pulse wave)
+- consider clotting and hemostasis
+- be prepared for the unexpected sudden blood loss (fluids, blood, equipment for intraosseous access, epinephrine)
 
 ### Treatment
-* early call for help and additional resources
-* determine cause, collaborate with surgeon (tamponade/ embolization/ cross clamping)
-* consider additional venous or intra-osseous access as required
-* give fluids/volume
-* catecholamines
-* consider tranexamic acid
-* monitor hemostasis repeatedly -\> laboratory, viscoelastic testing (e.g. ROTEM, TEG)
-* order and give blood products and clotting factors as indicated
-* consult with hematologist and intensivist
-* consider and exclude other reasons for hemodynamic instability (cardiologist)
+- early call for help and additional resources
+- determine cause, collaborate with surgeon (tamponade/ embolization/ cross clamping)
+- consider additional venous or intra-osseous access as required
+- give fluids/volume
+- catecholamines
+- consider tranexamic acid
+- monitor hemostasis repeatedly -\> laboratory, viscoelastic testing (e.g. ROTEM, TEG)
+- order and give blood products and clotting factors as indicated
+- consult with hematologist and intensivist
+- consider and exclude other reasons for hemodynamic instability (cardiologist)
 
 ### Post Care
-* re-establish normovolemia and hemostasis
-* delayed extubation (PICU)
-* careful documentation
-* follow-up
-* patient disclosure and debriefing
+- re-establish normovolemia and hemostasis
+- delayed extubation (PICU)
+- careful documentation
+- follow-up
+- patient disclosure and debriefing
 
 ### References
-* Bhananker SM, Ramamoorthy C, Geiduschek JM, Posner KL, Domino KB, Haberkern CM, Campos JS, Morray JP. Anesthesia-related cardiac arrest in children: update from the Pediatric Perioperative Cardiac Arrest Registry. Anesth Analg. 2007; 105: 344-50.
-* Haas Th, Mauch JY, Weiss M, Schmugge M. Management of Dilutional Coagulopathy during Pediatric Major Surgery. Transfus Med Hemother. 2012; 39: 114--9.
-* Kozek-Langenecker SA, Ahmed AB, Afshari A, Albaladejo P, Aldecoa C, Barauskas G, De Robertis E, Faraoni D, Filipescu DC, Fries D, Haas T, Jacob M, Lancé MD, Pitarch JVL, Mallett S, Meier J, Molnar ZL, Rahe-Meyer N, Samama CM, Stensballe J, Van der Linden PJF, Wikkelsø AJ, Wouters P, Wyffels P, Zacharowski K. Management of severe perioperative bleeding: guidelines from the European Society of Anaesthesiology: First update 2016. Eur J Anaesthesiol. 2017; 34: 332-95.
-* Goobie SM, Haas T. Bleeding management for pediatric craniotomies and craniofacial surgery. Paediatr Anaesth. 2014; 24: 678-89.
+- Bhananker SM, Ramamoorthy C, Geiduschek JM, Posner KL, Domino KB, Haberkern CM, Campos JS, Morray JP. Anesthesia-related cardiac arrest in children: update from the Pediatric Perioperative Cardiac Arrest Registry. Anesth Analg. 2007; 105: 344-50.
+- Haas Th, Mauch JY, Weiss M, Schmugge M. Management of Dilutional Coagulopathy during Pediatric Major Surgery. Transfus Med Hemother. 2012; 39: 114--9.
+- Kozek-Langenecker SA, Ahmed AB, Afshari A, Albaladejo P, Aldecoa C, Barauskas G, De Robertis E, Faraoni D, Filipescu DC, Fries D, Haas T, Jacob M, Lancé MD, Pitarch JVL, Mallett S, Meier J, Molnar ZL, Rahe-Meyer N, Samama CM, Stensballe J, Van der Linden PJF, Wikkelsø AJ, Wouters P, Wyffels P, Zacharowski K. Management of severe perioperative bleeding: guidelines from the European Society of Anaesthesiology: First update 2016. Eur J Anaesthesiol. 2017; 34: 332-95.
+- Goobie SM, Haas T. Bleeding management for pediatric craniotomies and craniofacial surgery. Paediatr Anaesth. 2014; 24: 678-89.
 

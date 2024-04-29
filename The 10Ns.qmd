@@ -1,16 +1,17 @@
 ## The 10-Ns
 ![Cartoon of a group of doctors in a hospital Description automatically generated](media/image5.png){width="5.508333333333334in" height="2.8583333333333334in"}
-* No Fear and No Awareness
-* Normovolemia
-* Normotension
-* Normal Heart Rate
-* Normoxemia
-* Normocapnia
-* Normonatremia
-* Normoglycemia
-* Normothermia
-* No Postoperative Discomfort
-    * No Pain
-    * No PONV
-    * No Emergence Delirium
+
+- No Fear and No Awareness
+- Normovolemia
+- Normotension
+- Normal Heart Rate
+- Normoxemia
+- Normocapnia
+- Normonatremia
+- Normoglycemia
+- Normothermia
+- No Postoperative Discomfort
+    - No Pain
+    - No PONV
+    - No Emergence Delirium
 

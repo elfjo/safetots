@@ -7,24 +7,27 @@ Maintenance of expected arterial carbon dioxide tension.
 Blood arterial carbon dioxide tensions are modified during anesthesia. Changes in arterial carbon dioxide tensions significantly affect body homeostasis including the acid-base status, the sympathomimetic tone and organ blood flow.
 
 ### Consequences
-Acute and chronic changes in arterial carbon dioxide tensions lead to short* and long-term outcomes:
-* modulation of vasoreactivity
-* central nervous system damage
-* neuro-behavioral changes
+Acute and chronic changes in arterial carbon dioxide tensions lead to short and long-term outcomes:
+
+- modulation of vasoreactivity
+- central nervous system damage
+- neuro-behavioral changes
 
 ### Prevention and treatment
-* aim to achieve adequate carbon dioxide tensions
-* acute changes in carbon dioxide tensions are commonly a result of difficulties and critical incidences during airway and ventilation management.
+
+- aim to achieve adequate carbon dioxide tensions
+- acute changes in carbon dioxide tensions are commonly a result of difficulties and critical incidences during airway and ventilation management.
 
 **Prevention requires:**
-* regular teaching and training of ventilation strategies
-* consider limitations of monitoring and airway equipment
-* use cuffed endotracheal tubes if appropriate
-* recognize discrepancies between arterial and end-tidal carbon dioxide tensions
-* Establish regulation for delivery of adequate ventilation management
-* Avoid acute high amplitude fluctuations of arterial carbon dioxide tension
+
+- regular teaching and training of ventilation strategies
+- consider limitations of monitoring and airway equipment
+- use cuffed endotracheal tubes if appropriate
+- recognize discrepancies between arterial and end-tidal carbon dioxide tensions
+- Establish regulation for delivery of adequate ventilation management
+- Avoid acute high amplitude fluctuations of arterial carbon dioxide tension
 
 ### Key references
-* Ringer SK, Clausen NG, Spielmann N, Weiss M. Effects of moderate and severe hypocapnia on intracerebral perfusion and brain tissue oxygenation in piglets. Paediatr Anaesth. 2019 Nov;29(11):1114-1121
-* Rhondali O, Juhel S, Mathews S, Cellier Q, Desgranges FP, Mahr A, De Queiroz M, Pouyau A, Rhzioual-Berrada K, Chassard D. Impact of sevoflurane anesthesia on brain oxygenation in children younger than 2 years. Paediatr Anaesth. 2014 Jul;24(7):734-40.
+- Ringer SK, Clausen NG, Spielmann N, Weiss M. Effects of moderate and severe hypocapnia on intracerebral perfusion and brain tissue oxygenation in piglets. Paediatr Anaesth. 2019 Nov;29(11):1114-1121
+- Rhondali O, Juhel S, Mathews S, Cellier Q, Desgranges FP, Mahr A, De Queiroz M, Pouyau A, Rhzioual-Berrada K, Chassard D. Impact of sevoflurane anesthesia on brain oxygenation in children younger than 2 years. Paediatr Anaesth. 2014 Jul;24(7):734-40.
 

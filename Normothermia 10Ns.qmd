@@ -5,16 +5,17 @@ Body temperature within the normal physiological range
 
 ### Importance and Consequences
 
-**Hypothermia** is a common problem in children exposed to anesthetic drugs -* especially in the youngest age groups. Hypothermia during anesthesia has many harmful consequences and may trigger multiple physiological changes (increased metabolic rate and oxygen consumption, prolonged bleeding time and increased risk for postoperative infection) and influence the pharmacokinetic and --dynamics of anesthetics.
+**Hypothermia*- is a common problem in children exposed to anesthetic drugs -- especially in the youngest age groups. Hypothermia during anesthesia has many harmful consequences and may trigger multiple physiological changes (increased metabolic rate and oxygen consumption, prolonged bleeding time and increased risk for postoperative infection) and influence the pharmacokinetic and --dynamics of anesthetics.
 
-**Hyperthermia** most commonly occurs because of iatrogenic overheating and failure to decrease the temperature of the exogenous heat source in the face of an increasingly body temperature. Other causes of hyperthermia include malignant hyperthermia, thyrotoxicosis and sepsis.
+**Hyperthermia*- most commonly occurs because of iatrogenic overheating and failure to decrease the temperature of the exogenous heat source in the face of an increasingly body temperature. Other causes of hyperthermia include malignant hyperthermia, thyrotoxicosis and sepsis.
 
 ### Prevention and Treatment
 Temperature can be monitored in the axilla, bladder, nasopharynx, esophagus, rectum, tympanic membrane and the skin. Core temperature is most accurately measured on the tympanic membrane or the esophagus.
+
 Core temperature monitoring should be monitored in procedures lasting more than 30 min with an effort to maintain temperature \> 36°C. External forced-air warming should be used to prevent hypothermia. Ambient temperature should be maintained between 21°and 26°C with a relative humidity level of 40-60%. IV solutions should be considered warmed to 38°C in high risk cases.
 
 ### Key references
-* Sessler DI. Temperature monitoring and perioperative thermoregulation. Anesthesiology 2008; 109: 318-38
-* Sessler DI. Forced-air warming in infants and children. Pediatr Anesth 2013; 23: 467-8
-* Witt L et al. Prevention of intraoperative hypothermia in neonates and infants: results of a prospective multicenter observational study with a new forced-air warming system with increased warm air flow. Pediatr Anesth 2013, 23: 469-74
+- Sessler DI. Temperature monitoring and perioperative thermoregulation. Anesthesiology 2008; 109: 318-38
+- Sessler DI. Forced-air warming in infants and children. Pediatr Anesth 2013; 23: 467-8
+- Witt L et al. Prevention of intraoperative hypothermia in neonates and infants: results of a prospective multicenter observational study with a new forced-air warming system with increased warm air flow. Pediatr Anesth 2013, 23: 469-74
 

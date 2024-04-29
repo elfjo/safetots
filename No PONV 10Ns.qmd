@@ -8,21 +8,22 @@ Children undergoing anesthesia and surgery are at high risk for PONV. PONV leads
 
 ### Consequences
 PONV is an unpleasant experience resulting in a variety of significant consequences which include:
-* additional burden for the child, parents, clinician and nurses
-* increased postoperative morbidity, pain, dehydration and surgical complications
-* delayed discharge and increased re-admission
-* additional medication and increased workload
+
+- additional burden for the child, parents, clinician and nurses
+- increased postoperative morbidity, pain, dehydration and surgical complications
+- delayed discharge and increased re-admission
+- additional medication and increased workload
 
 ### Good Practice Points
-* assess risk factors from patient history, type of surgery and type of anesthesia
-* establish local standard operating protocols for the prevention and treatment of PONV according to current evidence-based guidelines (see below)
-* be aware of factors unrelated to current condition which could cause or exacerbate PONV (intestinal, brain, hypotension, allergic reaction, drug side effects)
+- assess risk factors from patient history, type of surgery and type of anesthesia
+- establish local standard operating protocols for the prevention and treatment of PONV according to current evidence-based guidelines (see below)
+- be aware of factors unrelated to current condition which could cause or exacerbate PONV (intestinal, brain, hypotension, allergic reaction, drug side effects)
 
 ### Follow-Up/ Outcome
-* audit incidence and severity of PONV
-* audit use of antiemetic protocols and compliance with protocols
-* QI initiatives to reduce in-hospital and post-discharge PONV
+- audit incidence and severity of PONV
+- audit use of antiemetic protocols and compliance with protocols
+- QI initiatives to reduce in-hospital and post-discharge PONV
 
 ### Key references
-* "This is the 2nd edition of the APAGBI evidence-based guidelines on prevention of postoperative vomiting in children from 2016. It gives practical well-founded advice on how to identify those paediatric patients most at risk for PONV, how to prevent PONV using commonly available drugs and how to treat PONV once it has occurred. Other techniques are also reviewed which may be helpful in individual cases even though the evidence for their efficacy is less robust." APAGBI. Guidelines on the prevention of postoperative vomiting in children. 2016. Link
+- "This is the 2nd edition of the APAGBI evidence-based guidelines on prevention of postoperative vomiting in children from 2016. It gives practical well-founded advice on how to identify those paediatric patients most at risk for PONV, how to prevent PONV using commonly available drugs and how to treat PONV once it has occurred. Other techniques are also reviewed which may be helpful in individual cases even though the evidence for their efficacy is less robust." APAGBI. Guidelines on the prevention of postoperative vomiting in children. 2016. Link
 
