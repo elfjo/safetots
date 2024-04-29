@@ -11,8 +11,6 @@ website:
     style: "floating"
     search: true
     contents:
-      - section: "Basics"
-        contents:
           - The Safetots Mission and Story.qmd
           - Rights of the Child 10Rs.qmd
           - Competence 5Ws.qmd
