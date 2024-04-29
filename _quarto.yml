@@ -1,12 +1,13 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Safetots"
   navbar:
     left:
-      - href: Rights of the Child 10Rs.qmd
+      - href: Research.qmd
+        text: research
+
 format:
   html:
     theme: cosmo
