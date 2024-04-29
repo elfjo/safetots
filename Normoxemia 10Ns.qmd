@@ -1,0 +1,32 @@
+## Normoxemia (10Ns)
+
+### Definition
+Normal oxygen tension in the blood. Adequate oxygen supply permits aerobic metabolism.
+
+### Importance
+**Hypoxemia** is commonly encountered during pediatric anesthesia. Prolonged hypoxemia may lead to adverse short and long-term outcomes.
+**Hyperoxemia** is iatrogenic and may result in the production of reactive oxygen species affecting normal organ function.
+
+### Consequences
+Acute and chronic changes in oxygen tensions results in physiologically and clinically relevant tissue perfusion and organ dysfunction.
+
+#### Hypoxemia
+Hypoxemia may result in severe tissue hypoxia, bradycardia, cerebral and other organ hypoperfusion.
+
+#### Hyperoxemia
+Prolonged hyperoxemia may affect organ development and function such as retinopathy of prematurity and bronchopulmonary dysplasia.
+
+### Prevention
+-   aim to achieve adequate oxygen tensions
+-   acute hypoxia is commonly a result of difficulties and critical incidences during airway and ventilation management
+**Prevention requires:**
+-   regular teaching and training
+-   equipment and drugs
+-   suitable staffing
+-   assessment und preparation of patient
+-   local algorithms for the (un)expected / risky airway difficulties should be established.
+-   establish regulation for delivery of adequate FiO2 and ventilation management
+
+### Key references
+-   Habre W, Peták F. Perioperative use of oxygen: variabilities across age. Br J Anaesth. 2014 Dec;113 Suppl 2:ii26-36.
+

@@ -1,0 +1,44 @@
+## Anaphylaxis (10Cs)
+This page is part of the Safetots Crisis SOPs, a framework for prevention and treatment of the most relevant crisis situations in pediatric anaesthesia.
+
+### Summary
+-   anaphylaxis is a severe, life-threatening, generalized or systemic hypersensitivity reaction
+-   anaphylaxis is very rare in children but requires swift and effective recognition and treatment
+
+### Background
+-   severe anaphylactic reactions in children are rare
+-   main triggers are antibiotics, colloids, hypnotics, muscle relaxants, intravenous contrast and latex
+-   prompt recognition and early treatment is required to avoid morbidity and mortality
+
+### Prevention
+-   take careful patient history
+-   high index of suspicion if severe hypotension and/or bronchospasm occurs
+-   knowledge of potential cross-reactivity
+-   eliminate potential triggers (latex free environment)
+-   ensure availability of effective drug treatments
+-   alternative diagnosis: Intestinal eventration syndrome, local anesthetic systemic toxicity
+
+### Treatment
+-   call for help
+-   stop the triggering agent
+-   give epinephrine 10 micrograms/kg IM, repeat iv as required
+-   give epinephrine IV (1-2-3-5-10 micrograms/kg) titrated according to effect
+-   maintain/ establish airway, give high flow oxygen, monitor vital signs
+-   consider raising legs/ fluid challenge if hypotension
+-   give antihistamines and steroids
+
+### Post Care
+-   take three timed blood samples for serum tryptase (as soon as possible, 1-2 hours and \>24h after event)
+-   develop urgent management plan according to clinical needs
+-   monitor patient carefully in the postoperative period
+-   provide patient letter and letter to family physician
+-   arrange referral to allergy clinic
+
+### References
+-   Becke K. Allergie und Anaphylaxie in der Kinderanästhesie. Anästh Intensivmed. 2015; 56: 126-34.
+-   Johnston EB, King C, Sloane PA, Cox JW, Youngblood AQ, Lynn Zinkan J, Tofil NM. Pediatric anaphylaxis in the operating room for anesthesia residents: a simulation study. Paediatr Anaesth. 2017; 27: 205-10.
+-   Sommerfield DL, Sommerfield A, Schilling A, Slevin L, Lucas M, von Ungern-Sternberg BS. Allergy alerts -- The incidence of parentally reported allergies in children presenting for general anesthesia. Paediatr Anaesth. 2019; 29: 153-160.
+-   Dewachter P, Mouton-Faivre C. Allergic risk during paediatric anaesthesia. Ann Fr Anesth Reanim. 2010; 29: 215-26.
+-   Karila C, Brunet-Langot D, Labbez F, Jacqmarcq O, Ponvert C, Paupe J, Scheinmann P, de Blic J. Anaphylaxis during anesthesia: results of a 12-year survey at a French pediatric center. Allergy. 2005; 60: 828-34.
+-   Harper NJN, Cook TM, Garcez T et al. Anaesthesia, surgery, and life-threatening allergic reactions: management and outcomes in the 6th National Audit Project (NAP6). Br J Anaesth. 2018; 121: 172-88.
+

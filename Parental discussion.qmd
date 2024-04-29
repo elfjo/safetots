@@ -1,0 +1,60 @@
+## Parental discussion
+![A doctor and a baby Description automatically generated with medium confidence](media/image9.png){width="5.508333333333334in" height="3.098611111111111in"}
+What to include in discussions of benefits and risks of anesthesia and analgesia with children, parents and families
+
+### How can I reassure parents who are worried about the risks of anesthesia and analgesia?
+
+### What do we know about the risks of anesthesia and analgesia?
+Peri-operative complications occur more often in neonates, infants and young children when compared with older children and adults, and morbidity and mortality risks are higher at younger ages. The incidence and severity of peri-operative complications are dependent on young age (reduced physiological reserves), pre-operative morbidity, urgency of the procedure as well as the training and experience of the anesthesiologist and the anesthesia team. There is a deﬁnite causal relationship between preventable poor peri-operative anesthetic care and adverse events with persistent poor neurological outcome and mortality in neonates, infants and small children.
+This table gives an idea of risks and how often they might occur.
+  -----------------------------------------------------------------------   Risk      Risk level   Description   ----------------- ------------ ----------------------------------------   Restlessness  1 in 10  Very common ("someone in your family")
+  Sickness  1 in 10  Very common 
+  Dizziness     1 in 10  Very common
+  Headache  1 in 100 Common ("someone in a street")
+  Chest infection   1 in 1000    Uncommon ("someone in a village")
+  Damage to teeth   1 in 1000    Uncommon
+  Awareness     1 in 1000    Uncommon
+  Serious allergy   1 in 10 000  Rare ("someone in a small town")   to drugs       
+  Serious   1 in 10 000  Rare   complication of       local anaesthesia      
+  Serious   1 in 10 000  Rare   complication of       strong pain       killers        
+  Brain damage  \< 1 in 100  Very rare ("someone in a large town")     000  
+  Death     \<\< 1 in    Very rare     100 000  
+                 -----------------------------------------------------------------------
+Compared to the risk of car travel, the risk of serious harm from anesthesia is very small.
+
+### What can I do to minimize risks?
+Pediatric anesthesia is usually safe in experienced hands and in well-organized anesthesia departments. Neonates, infants and children with complex needs or undergoing major surgery should be treated in centers by experienced pediatric teams. Older, otherwise healthy children for common elective procedures who are treated in non-pediatric hospitals beneﬁt from anesthesiologists trained and experienced in pediatric anesthesia.A specialist pediatric anesthesiologist has been trained for a minimum of one year at a large pediatric center and may also have a specialist pediatric anesthesia certiﬁcation.
+Good pediatric anesthesia care also requires well trained pediatric nurses, pediatric post-anesthesia recovery facilities, established standard operating protocols (SOPs) as well as continuous education and training. These recommendations apply to all places where children are anesthetized.
+
+### What should I say to the parents or carers of a young infant who express concern about anesthesia and the potential for long-term effects on the brain?
+There is no proven direct causal adverse effect of general anesthetics on human brain development. Recent reviews of the animal and clinical literature , and the outcome of the GAS study conclude that there is now strong evidence that short single exposure to anesthesia in early life is not associated with any long term significant measurable risk in humans. Some large population-based studies have found evidence for a small difference in tests of academic achievement and school readiness but the differences are small (for example, around 1% decrement in IQ) and this would not have a noticeable impact on the child. Any added risk of anesthesia and surgery is up to 10 times less than other factors such as gender or maternal education. Some studies have found evidence of an association between surgery and anesthesia in early life and increased risk of behavioral disorder or learning disability but the added risk is very small.
+**The central points to explain and emphasize are that:**
+-   the surgery or procedure is only being scheduled because it is necessary
+-   surgery cannot be safely performed without adequate anesthesia and analgesia
+-   most anaesthetics in children are of short duration
+-   all babies and children are closely monitored during anesthesia and surgery to maximize safety and minimize side- effects
+-   the aim is to provide careful management of pediatric anesthesia by trained personnel within a safe environment respecting the rights of the child (see Rights of the Child, Competence, Quality)
+-   there are currently no data to indicate that a single, well conducted anesthetic of short duration causes long-term changes in brain development
+-   experimental data and measures used in animals cannot be extrapolated to indicate long-term effects in human infants
+
+### If I am called to anesthetize a young infant should I instigate a discussion about long-term effects of anesthesia on the developing brain?
+This depends on the medicolegal approach to disclosure of risks in your country. It is important to do this in an open and non-alarming way and to give reassurance that for all the common risks and potential adverse effects, measures are taken to prevent or minimize these. Rare risks should be mentioned in context and related to risks of everyday life. There may be specific risks for an individual child due to young age, past history, comorbidities, complexity of the surgery or invasiveness of the anesthetic procedure and these should be identified and included in the discussion.
+
+### Should I alter my current anesthesia practice in response to the current evidence base information or other published statements?
+There is currently no evidence to support one particular anesthetic technique or drug regimen that has beneﬁt over another in terms of reducing the potential effects of anesthesia on the infant brain. In addition, changing anesthesia practice from a familiar to an unfamiliar technique can itself introduce risk. Trials have begun of new techniques involving agents with neuroprotective properties but results will not be available for some time.
+
+### Is repeated exposure or long duration exposure to anesthetic agents more harmful than short- duration single exposure?
+There is only extremely weak human evidence to support the FDA warning that repeated or lengthy use of anesthetic drugs may affect the development of children's brains. Current data on multiple exposures or longer-term exposures are unsuitable to answer this question at this time and unlikely to be resolved in the future. Evidence from both epidemiological and prospective studies indicates that a single exposure to anesthesia of an hour is safe in terms of brain development. The epidemiological studies carried out so far have not shown major adverse effects on the infant brain that can be speciﬁcally related to anesthesia. Infants who need multiple anesthetics or those who require complex surgery and anesthesia of long duration usually have additional comorbidities that can affect development.
+
+### If parents still remain unsure or are concerned about providing consent for anesthesia and surgery, what should I do? 
+In the rare case when parents or carers remain sufficiently concerned to withhold consent for elective procedures, it may be necessary to organize a further discussion with all the relevant disciplines, to discuss the beneﬁts of the procedure/surgery and risks of delay. This may result in postponement for cases that are not urgent. Emergency or urgent surgery may still need to take place, and risks associated with delay clearly outweigh the theoretical issues about anesthesia on long-term cognitive development.
+
+### What can I do to improve the quality of my care?
+There are many excellent resources that summarize quality improvement science and give examples of quality improvement in anesthesia and perioperative care, including pediatric practice:
+-   Raising the Standard: a compendium of audit recipes (3rd edition) 2012. Royal Collage of Anesthetists.
+-   Audit Recipe Book: Section 9, Paediatrics (2012). Royal Collage of Anesthetists.
+-   see also Quality Improvement
+
+### If children or parents ask for more information about anesthesia and analgesia, where should they go?
+-   see content for Parents
+

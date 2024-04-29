@@ -1,0 +1,36 @@
+## Tonsillar Bleeding (10Cs)
+
+### Summary
+A common potentially life-threatening emergency in children that requires a standardized and effective, locally agreed hospital approach.
+
+### Background
+Post-tonsillectomy bleeding occurs in up to 5% of all tonsillectomies with 50% surgical revision. Mortality occurs in up to 1:30 000 patients usually due to delayed intervention. Anesthetic challenges are hypovolemia, difficult airway (bleeding and swelling), full stomach (blood) and difficult venous access.
+
+### Prevention
+-   patients require fluid resuscitation prior to induction of anesthesia unless the rate of bleeding exceeds the ability to replacement volume
+-   early intravenous/ intra-osseous access is required
+-   a hospital care pathway needs to be established with all team members (emergency physicians, anesthetist, surgeon and nurse) work from the same instructions, precise lines of communication, information required and clinical guidance to achieve the optimal care
+-   must have a pre-defined role in this scenario
+-   anticipate a difficult tracheal intubation
+-   prepare adequate airway equipment and drugs
+-   two suction sources available
+
+### Treatment
+-   controlled Rapid Sequence Induction and Intubation with gentle face mask ventilation following induction of anesthesia and securing the airway with a cuffed tracheal tube is used to avoid severe hypoxemia
+-   evaluate intraoperative hemostasis
+-   empty stomach using an oro-gastric (placed by surgeon under direct vision) prior to extubation
+-   ensure hemostasis proper surgical revision before extubation of the awake and hemodynamically stable patient
+-   Post Care
+-   consider delayed extubation in case of severe bleeding, unstable patient or unclear coagulation
+-   consider tranexamic acid in severe tonsillar bleeding
+-   consider referral to hematologist if hereditary coagulation order is suspected
+
+### References
+-   Windfuhr JP, Schloendorff G, Baburi D, Kremer B. Serious post-tonsillectomy hemorrhage with and without lethal outcome in children and adolescents. Int J Pediatr Otorhinolaryngol 2008; 72: 1029-40.
+-   Windfuhr JP, Schloendorff G, Baburi D, Kremer B. Lethal outcome of post-tonsillectomy hemorrhage. Eur Arch Oto-Rhino-Laryngology 2008; 265: 1527-34
+-   McDougall RJ. Paediatric emergencies. Anaesthesia 2013; 68: 61-7.
+-   Fields RG, Gencorelli FJ, Litman RS. Anesthetic management of the pediatric bleeding tonsil. Paediatr Anaesth 2010; 20: 982-6.
+-   Gencorelli FJ, Fields RG, Litman RS. Complications during rapid sequence induction of general anesthesia in children: A benchmark study. Paediatr Anaesth 2010; 20: 421--4.
+-   Neuhaus D, Schmitz A, Gerber A, Weiss M. Controlled rapid sequence induction and intubation -- an analysis of 1001 children. Paediatr Anaesth 2013; 23: 734-40.
+-   Engelhardt T. Rapid sequence induction has no use in pediatric anesthesia. Paediatr Anaesth 2015; 25: 5-8.
+
