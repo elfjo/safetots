@@ -5,52 +5,52 @@ This page is part of the Safetots Crisis SOPs, a framework for prevention and tr
 Skills and in-depth knowledge are essential. It is important to recognize airway abnormalities before any airway manipulation. Call for help early if doubts about the ability to ventilate exist. Limit the tracheal intubation attempts and always consider a supraglottic airway as an alternative.
 
 ### Background
-- the trachea of the vast majority of children is usually easy to intubate
-- patients do not come to harm because they cannot be intubated but are harmed because of repeated attempts to intubate their trachea
-- often associated with lack of skills, knowledge, education, training, experience and use of age inappropriate equipment
-- infants and toddlers are at particular risk
-- Prevention
+* the trachea of the vast majority of children is usually easy to intubate
+* patients do not come to harm because they cannot be intubated but are harmed because of repeated attempts to intubate their trachea
+* often associated with lack of skills, knowledge, education, training, experience and use of age inappropriate equipment
+* infants and toddlers are at particular risk
+* Prevention
 
 #### Identify children at risk
-- children aged \<1 year (unfamiliar anatomy and limited experience)
-- previous difficult intubation
-- craniofacial deformities and facial dysmorphia
-- airway abnormalities associated with genetic syndromes and diseases
-- acquired abnormalities (burns, contractures, hardware)
-- Strict transfer policy regarding children at risk
+* children aged \<1 year (unfamiliar anatomy and limited experience)
+* previous difficult intubation
+* craniofacial deformities and facial dysmorphia
+* airway abnormalities associated with genetic syndromes and diseases
+* acquired abnormalities (burns, contractures, hardware)
+* Strict transfer policy regarding children at risk
 
 #### Seek experienced consultation and help early
 
 #### Infrastructure and competence
 Anesthesia for children should be undertaken or supervised by anesthetists who have undergone appropriate education, training and experience
-- suitable anesthesia environment
-- appropriate patient positioning
-- basic age specific airway equipment
-- adequate depth of anesthesia and muscle paralysis
-- use of appropriate technique including external laryngeal manipulation
-- pre-oxygenation as appropriate and accepted by patient
+* suitable anesthesia environment
+* appropriate patient positioning
+* basic age specific airway equipment
+* adequate depth of anesthesia and muscle paralysis
+* use of appropriate technique including external laryngeal manipulation
+* pre-oxygenation as appropriate and accepted by patient
 
 ### Treatment
-- limit initial tracheal intubation attempts to maximum 2 attempts
-- maintain oxygenation, ventilation and anesthesia at all times.
-- consider indication for intubation and possibility to use supraglottic airway or face mask only
-- alternative airway technique or operator according to local expertise
-- insert supraglottic airway for emergency situations or for awakening of patient for postponing the procedure
+* limit initial tracheal intubation attempts to maximum 2 attempts
+* maintain oxygenation, ventilation and anesthesia at all times.
+* consider indication for intubation and possibility to use supraglottic airway or face mask only
+* alternative airway technique or operator according to local expertise
+* insert supraglottic airway for emergency situations or for awakening of patient for postponing the procedure
 
 ### Post Care
-- debriefing (patient, parent, staff)
-- documentation (patient records, alert card, bracelet)
+* debriefing (patient, parent, staff)
+* documentation (patient records, alert card, bracelet)
 
 ### References
-- Engelhardt T, Fiadjoe JE, Weiss M, Baker P, Bew S, Echeverry Marín P, von Ungern-Sternberg BS. A framework for the management of the pediatric airway. Paediatr Anaesth. 2019 Oct;29(10):985-992
-- Frei FJ, Ummenhofer W. Difficult intubation in paediatrics. Paediatr Anaesth. 1996; 6: 251-63.
-- Fiadjoe JE, Nishisaki A, Jagannathan N, Hunyady AI, Greenberg RS, Reynolds PI, Matuszczak ME, Rehman MA, Polaner DM, Szmuk P, Nadkarni VM, McGowan FX Jr, Litman RS, Kovatsis PG. Airway management complications in children with difficult tracheal intubation from the Pediatric Difficult Intubation (PeDI) registry: a prospective cohort analysis. Lancet Respir Med 2016; 4: 37-48.
-- Engelhardt T, Virag K, Veyckemans F, Habre W; APRICOT Group of the European Society of Anaesthesiology Clinical Trial Network. Airway management in paediatric anaesthesia in Europe-insights from APRICOT (Anaesthesia Practice In Children Observational Trial): a prospective multicentre observational study in 261 hospitals in Europe. Br J Anaesth 2018; 121: 66-75.
-- Weiss M, Engelhardt T. Proposal for the management of the unexpected difficult pediatric airway. Paediatr Anaesth 2010; 20: 454-64.
-- Weiss M, Schmidt J, Eich Ch et al. Handlungsempfehlung zur Prävention und Behandlung des unerwartet schwierigen Atemwegs in der Kinderanästhesie. Anästh Intensivmed. 2011; 52: S54-S63.
-- Engelhardt T, Machotta A, Weiss M. Management strategies for the difficult paediatric airway. Trends in Anaesthesia and Critical Care 2013; 3: 183-7.
-- Black AE, Flynn PE, Smith HL, ThomasML, WilkinsonKA; Association of Pediatric Anaesthetists of Great Britain and Ireland. Development of a guideline for the management of the unanticipated difficult airway in pediatric practice. Paediatr Anaesth. 2015; 25: 346-62.
-- Weiss M, Walker RWM, Eason HA, Engelhardt T. Cannot oxygenate, cannot intubate in small children: Urgent need for better data! Eur J Anaesthesiol. 2018; 35:556-557.
-- Disma N, Engelhardt T, Hansen TG. Neonatal tracheal intubation: From art to evidence. Eur J Anaesthesiol. 2021 Nov 1;38(11):1109-1110.
-- Hsu G, von Ungern-Sternberg BS, Engelhardt T. Pediatric airway management. Curr Opin Anaesthesiol. 2021 Jun 1;34(3):276-283
+* Engelhardt T, Fiadjoe JE, Weiss M, Baker P, Bew S, Echeverry Marín P, von Ungern-Sternberg BS. A framework for the management of the pediatric airway. Paediatr Anaesth. 2019 Oct;29(10):985-992
+* Frei FJ, Ummenhofer W. Difficult intubation in paediatrics. Paediatr Anaesth. 1996; 6: 251-63.
+* Fiadjoe JE, Nishisaki A, Jagannathan N, Hunyady AI, Greenberg RS, Reynolds PI, Matuszczak ME, Rehman MA, Polaner DM, Szmuk P, Nadkarni VM, McGowan FX Jr, Litman RS, Kovatsis PG. Airway management complications in children with difficult tracheal intubation from the Pediatric Difficult Intubation (PeDI) registry: a prospective cohort analysis. Lancet Respir Med 2016; 4: 37-48.
+* Engelhardt T, Virag K, Veyckemans F, Habre W; APRICOT Group of the European Society of Anaesthesiology Clinical Trial Network. Airway management in paediatric anaesthesia in Europe-insights from APRICOT (Anaesthesia Practice In Children Observational Trial): a prospective multicentre observational study in 261 hospitals in Europe. Br J Anaesth 2018; 121: 66-75.
+* Weiss M, Engelhardt T. Proposal for the management of the unexpected difficult pediatric airway. Paediatr Anaesth 2010; 20: 454-64.
+* Weiss M, Schmidt J, Eich Ch et al. Handlungsempfehlung zur Prävention und Behandlung des unerwartet schwierigen Atemwegs in der Kinderanästhesie. Anästh Intensivmed. 2011; 52: S54-S63.
+* Engelhardt T, Machotta A, Weiss M. Management strategies for the difficult paediatric airway. Trends in Anaesthesia and Critical Care 2013; 3: 183-7.
+* Black AE, Flynn PE, Smith HL, ThomasML, WilkinsonKA; Association of Pediatric Anaesthetists of Great Britain and Ireland. Development of a guideline for the management of the unanticipated difficult airway in pediatric practice. Paediatr Anaesth. 2015; 25: 346-62.
+* Weiss M, Walker RWM, Eason HA, Engelhardt T. Cannot oxygenate, cannot intubate in small children: Urgent need for better data! Eur J Anaesthesiol. 2018; 35:556-557.
+* Disma N, Engelhardt T, Hansen TG. Neonatal tracheal intubation: From art to evidence. Eur J Anaesthesiol. 2021 Nov 1;38(11):1109-1110.
+* Hsu G, von Ungern-Sternberg BS, Engelhardt T. Pediatric airway management. Curr Opin Anaesthesiol. 2021 Jun 1;34(3):276-283
 

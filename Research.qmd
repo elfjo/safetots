@@ -4,17 +4,17 @@
 
 ### Why Research into Safe Conduct of Anesthesia is important
 The most important unsolved question is how to define "safe conduct" in pediatric anesthesia. In other words, what outcomes should we use to measure the "success" of anesthesia and perioperative care? This research priority generates many more fundamental questions:
-- What outcomes matter most to our patients and their families?
-- What outcomes are most important to clinicians?
-- What are the most important outcome measures for clinical researchers?
-- Are these outcomes aligned?
-- Can we, do we, should we routinely measure these outcomes in everyday clinical practice and/or in clinical trials?
-- How can we improve these outcomes? (See Quality Improvement)
+* What outcomes matter most to our patients and their families?
+* What outcomes are most important to clinicians?
+* What are the most important outcome measures for clinical researchers?
+* Are these outcomes aligned?
+* Can we, do we, should we routinely measure these outcomes in everyday clinical practice and/or in clinical trials?
+* How can we improve these outcomes? (See Quality Improvement)
 
 ### What are the necessary steps to determine outcomes?
 
 #### Identification of outcome measures and indicators
-Clinical expert- along with other stakeholders-based consensus is necessary to identify indicators that could act as outcome measures in upcoming observational studies and trials. Such outcome measures have been established in adults and effort is currently under way in pediatric populations.
+Clinical expert* along with other stakeholders-based consensus is necessary to identify indicators that could act as outcome measures in upcoming observational studies and trials. Such outcome measures have been established in adults and effort is currently under way in pediatric populations.
 
 #### Establishment of large multi-centric electronic databases of perioperative electronic records and pre-identified indicators
 Such global Big data approach will foster benchmarking and continuous quality assessment/improvement at the individual, institutional and inter-institutional levels. It will also facilitate clinical research at a large scale.
@@ -27,7 +27,7 @@ There is a general agreement between pediatric anesthesia providers that experti
 
 #### Pre-clinical and clinical physiological studies to determine "safe"
 
-**While there is a general consensus between anesthesia providers to maintain physiological parameters in the "normal" or "safe" range** during the perioperative period, we often do not know what these safe values are. For example, the physiological range of blood pressure that allows adequate organ perfusion and oxygen delivery to pediatric populations during the perioperative period is essentially unknown. Relatedly, the systemic blood pressure values leading to cerebral hypoperfusion are poorly defined. Neither we know to what extent intraoperative cerebral hypoperfusion may lead to brain injury during routine general anesthesia. The interaction between hypotension -- hypo/hyperglycemia -- hyo/hypercapnia in the perioperative setting also remains to be determined. Both preclinical laboratory models and clinical investigations will be necessary to better elucidate these questions.
+**While there is a general consensus between anesthesia providers to maintain physiological parameters in the "normal" or "safe" range** during the perioperative period, we often do not know what these safe values are. For example, the physiological range of blood pressure that allows adequate organ perfusion and oxygen delivery to pediatric populations during the perioperative period is essentially unknown. Relatedly, the systemic blood pressure values leading to cerebral hypoperfusion are poorly defined. Neither we know to what extent intraoperative cerebral hypoperfusion may lead to brain injury during routine general anesthesia. The interaction between hypotension -* hypo/hyperglycemia -* hyo/hypercapnia in the perioperative setting also remains to be determined. Both preclinical laboratory models and clinical investigations will be necessary to better elucidate these questions.
 
 #### Research on neurodevelopmental outcomes
 

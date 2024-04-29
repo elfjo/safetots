@@ -7,26 +7,26 @@ Fear: Unpleasant emotion caused by an actual or perceived threat, danger, pain, 
 Preoperative anxiety in children may result from the fear of pain, unfamiliar surroundings, a sense of loss of control, the presence of strangers, parental anxiety and many other perceived threats to their world. Some children will openly say they are frightened; others will cry, withdraw, cling to their parents or become agitated.
 
 ### Consequences
-- anxiety may reduce cooperation; contribute to emergence delirium and increase pain and behavioral disturbances (sleep disturbances or nightmares, enuresis, separation anxiety and increased fear of doctors) after surgery
-- up to 50% of children will still have these disturbances two weeks after surgery and some several months
-- the incidence is increased after a stormy anesthetic induction and can be reduced if premedication or other strategies are used to reduce preoperative anxiety
+* anxiety may reduce cooperation; contribute to emergence delirium and increase pain and behavioral disturbances (sleep disturbances or nightmares, enuresis, separation anxiety and increased fear of doctors) after surgery
+* up to 50% of children will still have these disturbances two weeks after surgery and some several months
+* the incidence is increased after a stormy anesthetic induction and can be reduced if premedication or other strategies are used to reduce preoperative anxiety
 
 ### Prevention and treatment
 There are 3 strategies that can be used to reduce or moderate anxiety:
-- age-appropriate psychological preparation/ education (e.g. verbal or written information, video, mobile phone app or tablet-pc, hospital tours and role playing)
-- parental presence (can be stressful to some parents)
-- pharmacological premedication (benzodiazepines, α2-agonists, ketamine)
+* age-appropriate psychological preparation/ education (e.g. verbal or written information, video, mobile phone app or tablet-pc, hospital tours and role playing)
+* parental presence (can be stressful to some parents)
+* pharmacological premedication (benzodiazepines, α2-agonists, ketamine)
 
 ### Special situations and challenges
-- the apprehensive child
-- the combative child
-- refusal
-- parental anxiety and expectations
+* the apprehensive child
+* the combative child
+* refusal
+* parental anxiety and expectations
 
 ### Key references
-- Kain ZN et al. Preoperative psychological preparation of the child for surgery: an update. Anesthesiol Clin N Am 2005; 23: 597-614
-- Yip P et al. Non-pharmacological intervention for assisting induction of anaesthesia in children. Cochrane Database of Systematic Review 2009; Issue 3. Art. No. CD006447
-- Rosenbaum A et al. The place of premedication in pediatric practice. Pediatr Anesth 2009; 19: 817-28
+* Kain ZN et al. Preoperative psychological preparation of the child for surgery: an update. Anesthesiol Clin N Am 2005; 23: 597-614
+* Yip P et al. Non-pharmacological intervention for assisting induction of anaesthesia in children. Cochrane Database of Systematic Review 2009; Issue 3. Art. No. CD006447
+* Rosenbaum A et al. The place of premedication in pediatric practice. Pediatr Anesth 2009; 19: 817-28
 
 ### No Awareness (10Ns)
 
@@ -34,30 +34,30 @@ There are 3 strategies that can be used to reduce or moderate anxiety:
 Postoperative recall of sensory perception during general anesthesia (no consensus definition available).
 
 ### Importance
-- intraoperative awareness is more common in children (0.5-1.0%) compared to adults (0.1-0.2%)
-- it may occur in non-paralyzed children without signs of inadequate anesthesia
-- does not seem to be associated with distress or post-traumatic stress disorders
-- the reasons for the high incidence in children are not known
+* intraoperative awareness is more common in children (0.5-1.0%) compared to adults (0.1-0.2%)
+* it may occur in non-paralyzed children without signs of inadequate anesthesia
+* does not seem to be associated with distress or post-traumatic stress disorders
+* the reasons for the high incidence in children are not known
 
 ### Consequences
-- unknown, may have major implications on social life
+* unknown, may have major implications on social life
 
 **Risk factors include**
-- drugs (neuromuscular blockade, thiopental, TIVA)
-- patients (female gender, age (younger adults), obesity, previous awareness, possibly difficult airway management)
-- subspecialties (obstetric, trauma, cardio-thoracic, neurosurgical)
-- organizational (out-of-hours surgery, junior anesthetist)
+* drugs (neuromuscular blockade, thiopental, TIVA)
+* patients (female gender, age (younger adults), obesity, previous awareness, possibly difficult airway management)
+* subspecialties (obstetric, trauma, cardio-thoracic, neurosurgical)
+* organizational (out-of-hours surgery, junior anesthetist)
 
 ### Prevention
-- identify risk factors
-- proper information preoperatively
-- consider the use of neuro-monitoring in patients with risk factors -- particularly if previous awareness
+* identify risk factors
+* proper information preoperatively
+* consider the use of neuro-monitoring in patients with risk factors -* particularly if previous awareness
 
 ### Treatment
-- administer benzodiazepines if awareness is suspected
-- if serious psychological problems occur (flash-backs, nightmares, new anxiety states and depression) the child should be referred to psychological service
+* administer benzodiazepines if awareness is suspected
+* if serious psychological problems occur (flash-backs, nightmares, new anxiety states and depression) the child should be referred to psychological service
 
 ### Key references
-- Sury M. Accidental awareness during anesthesia in children. Pediatric Anesthesia 2016; 26: 468.
-- Malviya S et al. The incidence of intraoperative awareness in children: childhood awareness and recall evaluation. Anesth Analg 2009; 109: 1421-7
+* Sury M. Accidental awareness during anesthesia in children. Pediatric Anesthesia 2016; 26: 468.
+* Malviya S et al. The incidence of intraoperative awareness in children: childhood awareness and recall evaluation. Anesth Analg 2009; 109: 1421-7
 

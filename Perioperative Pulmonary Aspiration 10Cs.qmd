@@ -7,36 +7,36 @@ Perioperative pulmonary aspiration is a rare event provided that the airway tech
 Peri-operative pulmonary aspiration is rare in pediatric anesthesia and usually has a good outcome.
 
 ### Prevention
-- strict adherence to fasting instructions and recognition of patients with delayed gastric emptying or with a full stomach
-- patients with intestinal obstruction require a naso-gastric tube
-- choice of appropriate induction technique and airway device
-- controlled Rapid Sequence Induction and Intubation (RSII) requires rapid induction of anesthesia, deep muscle relaxation and gentle face mask ventilation to maintain oxygenation, ventilation and anesthesia
-- ensure sufficient depth of anesthesia (+/- muscle relaxation) to avoid coughing, bucking, straining resulting in regurgitation of gastric content and pulmonary aspiration
+* strict adherence to fasting instructions and recognition of patients with delayed gastric emptying or with a full stomach
+* patients with intestinal obstruction require a naso-gastric tube
+* choice of appropriate induction technique and airway device
+* controlled Rapid Sequence Induction and Intubation (RSII) requires rapid induction of anesthesia, deep muscle relaxation and gentle face mask ventilation to maintain oxygenation, ventilation and anesthesia
+* ensure sufficient depth of anesthesia (+/* muscle relaxation) to avoid coughing, bucking, straining resulting in regurgitation of gastric content and pulmonary aspiration
 
 ### Treatment
-- call for assistance and help
-- place patient in lateral and head down position
-- suction clearance of airway content and secure airway with tracheal intubation
-- no broncho-alveolar lavage
-- solid foreign body aspiration may require bronchoscopy and extraction
-- lung recruitment maneuver if required
-- postpone non-emergency surgery if severe aspiration suspected
-- chest x-ray, steroids or prophylactic antibiotics are not routinely required unless symptoms persist
-- attempt early extubation
+* call for assistance and help
+* place patient in lateral and head down position
+* suction clearance of airway content and secure airway with tracheal intubation
+* no broncho-alveolar lavage
+* solid foreign body aspiration may require bronchoscopy and extraction
+* lung recruitment maneuver if required
+* postpone non-emergency surgery if severe aspiration suspected
+* chest x-ray, steroids or prophylactic antibiotics are not routinely required unless symptoms persist
+* attempt early extubation
 
 ### Post Care
-- hospital discharge is possible if asymptomatic after 2 hours
+* hospital discharge is possible if asymptomatic after 2 hours
 
 ### References
-- Frykholm P, Schindler E, Sümpelmann R, Walker R, Weiss M. Preoperative fasting in children: review of existing guidelines and recent developments. Br J Anaesth. 2018; 120: 469-74.
-- Thomas M, Morrison C, Newton R, Schindler E. Consensus statement on clear fluids fasting for elective pediatric general anesthesia. Paediatr Anaesth. 2018; 28: 411-4.
-- Disma N, Thomas M, Afshari A, Veyckemans F, De Hert S. Clear fluids fasting for elective paediatric anaesthesia: The European Society of Anaesthesiology consensus statement. Eur J Anaesthesiol. 2019; 36: 173-174.
-- Kelly CJ, Walker RW. Perioperative pulmonary aspiration is infrequent and low risk in pediatric anesthetic practice. Paediatr Anaesth. 2015; 25: 36-43.
-- Engelhardt T, Webster NR. Pulmonary aspiration of gastric contents in anaesthesia.Br J Anaesth 1999; 83: 453-60. Weiss M, Gerber AC. Induction of anaesthesia and intubation in children with a full stomach. Time to rethink!. Anaesthesist. 2007; 56: 1210-6.
-- Weiss M, Gerber A. Rapid sequence induction in children -- it's not a matter of time! Paediatr Anaesth. 2008; 18: 97-9.
-- Eich C, Timmermann A, Russo SG, Cremer S, Nickut A, Strack M, Weiss M, Müller MP. A controlled rapid-sequence induction technique for infants may reduce unsafe actions and stress. Acta Anaesthesiol Scand. 2009; 53: 1167-72.
-- Schmidt J, Strauß JM, Becke K, J Giest J, Schmitz B. Handlungsempfehlung zur Rapid-Sequence-Induction im Kindesalter. Anästhesie & Intensivmedizin 2007; 48: S86-S93.
-- Engelhardt T. Rapid sequence induction has no use in pediatric anesthesia. Paediatr Anaesth. 2015; 25: 5-8.
+* Frykholm P, Schindler E, Sümpelmann R, Walker R, Weiss M. Preoperative fasting in children: review of existing guidelines and recent developments. Br J Anaesth. 2018; 120: 469-74.
+* Thomas M, Morrison C, Newton R, Schindler E. Consensus statement on clear fluids fasting for elective pediatric general anesthesia. Paediatr Anaesth. 2018; 28: 411-4.
+* Disma N, Thomas M, Afshari A, Veyckemans F, De Hert S. Clear fluids fasting for elective paediatric anaesthesia: The European Society of Anaesthesiology consensus statement. Eur J Anaesthesiol. 2019; 36: 173-174.
+* Kelly CJ, Walker RW. Perioperative pulmonary aspiration is infrequent and low risk in pediatric anesthetic practice. Paediatr Anaesth. 2015; 25: 36-43.
+* Engelhardt T, Webster NR. Pulmonary aspiration of gastric contents in anaesthesia.Br J Anaesth 1999; 83: 453-60. Weiss M, Gerber AC. Induction of anaesthesia and intubation in children with a full stomach. Time to rethink!. Anaesthesist. 2007; 56: 1210-6.
+* Weiss M, Gerber A. Rapid sequence induction in children -* it's not a matter of time! Paediatr Anaesth. 2008; 18: 97-9.
+* Eich C, Timmermann A, Russo SG, Cremer S, Nickut A, Strack M, Weiss M, Müller MP. A controlled rapid-sequence induction technique for infants may reduce unsafe actions and stress. Acta Anaesthesiol Scand. 2009; 53: 1167-72.
+* Schmidt J, Strauß JM, Becke K, J Giest J, Schmitz B. Handlungsempfehlung zur Rapid-Sequence-Induction im Kindesalter. Anästhesie & Intensivmedizin 2007; 48: S86-S93.
+* Engelhardt T. Rapid sequence induction has no use in pediatric anesthesia. Paediatr Anaesth. 2015; 25: 5-8.
 
 
 

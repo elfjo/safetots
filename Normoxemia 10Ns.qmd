@@ -19,17 +19,17 @@ Hypoxemia may result in severe tissue hypoxia, bradycardia, cerebral and other o
 Prolonged hyperoxemia may affect organ development and function such as retinopathy of prematurity and bronchopulmonary dysplasia.
 
 ### Prevention
-- aim to achieve adequate oxygen tensions
-- acute hypoxia is commonly a result of difficulties and critical incidences during airway and ventilation management
+* aim to achieve adequate oxygen tensions
+* acute hypoxia is commonly a result of difficulties and critical incidences during airway and ventilation management
 
 **Prevention requires:**
-- regular teaching and training
-- equipment and drugs
-- suitable staffing
-- assessment und preparation of patient
-- local algorithms for the (un)expected / risky airway difficulties should be established.
-- establish regulation for delivery of adequate FiO2 and ventilation management
+* regular teaching and training
+* equipment and drugs
+* suitable staffing
+* assessment und preparation of patient
+* local algorithms for the (un)expected / risky airway difficulties should be established.
+* establish regulation for delivery of adequate FiO2 and ventilation management
 
 ### Key references
-- Habre W, Peták F. Perioperative use of oxygen: variabilities across age. Br J Anaesth. 2014 Dec;113 Suppl 2:ii26-36.
+* Habre W, Peták F. Perioperative use of oxygen: variabilities across age. Br J Anaesth. 2014 Dec;113 Suppl 2:ii26-36.
 

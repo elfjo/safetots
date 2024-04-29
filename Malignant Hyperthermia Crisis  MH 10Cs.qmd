@@ -1,45 +1,45 @@
-## Malignant Hyperthermia Crisis -- MH (10Cs)
+## Malignant Hyperthermia Crisis -* MH (10Cs)
 
 ### Summary
 Malignant hyperthermia crisis occurs in response to volatile anesthetic agents and depolarizing muscle relaxants (suxamethonium). Prevention and immediate treatment with dantrolene is life-saving.
 
 ### Background
-- malignant hyperthermia is a life-threatening metabolic response to volatile anesthetic agents or succinylcholine (suxamethonium). Previous uneventful exposure to these agents does not guarantee safe use
-- mortality may approach 70% if untreated, with dantrolene treatment mortality approximates 3-5%
+* malignant hyperthermia is a life-threatening metabolic response to volatile anesthetic agents or succinylcholine (suxamethonium). Previous uneventful exposure to these agents does not guarantee safe use
+* mortality may approach 70% if untreated, with dantrolene treatment mortality approximates 3-5%
 
 ### Prevention
-- recognition of patients at risk through careful medical and family history and/ or consultation with specialist Malignant Hyperthermia reference center
-- do not use volatiles or succinylcholine (suxamethonium) in patients at risk
-- reduce preoperative anxiety
-- use a vapor free anesthetic machine if possible, if not available prepare machine according to manufacturer's guidelines and use a new breathing circuit, rebreathing bag, and gas sampling tubes
-- consider vapor scavenging filters
-- ensure dantrolene availability
+* recognition of patients at risk through careful medical and family history and/ or consultation with specialist Malignant Hyperthermia reference center
+* do not use volatiles or succinylcholine (suxamethonium) in patients at risk
+* reduce preoperative anxiety
+* use a vapor free anesthetic machine if possible, if not available prepare machine according to manufacturer's guidelines and use a new breathing circuit, rebreathing bag, and gas sampling tubes
+* consider vapor scavenging filters
+* ensure dantrolene availability
 
 ### Treatment
 Call for help early, initiate action plan and allocate specific tasks:
-- stop potential trigger agents immediately and give 100% oxygen
-- consider installing clean breathing system, remove inhalational agents and increase fresh gas flow to maximum, consider vapor scavenging filters
-- hyperventilate to achieve normocapnia
-- maintain anesthesia using non-volatile anesthetics and opioids as well as non-depolarizing muscle relaxants, curtail surgery if possible
-- give dantrolene (2.5mg/kg every 5 minutes until effect -- max. 20mg/kg): need to assign one person to correctly reconstitute dantrolene from powder formulation
-- active cooling
-- treat or prevent hyperkalemia, acidosis, arrhythmias (no calcium channel antagonists) and prevent acute renal failure and coagulopathy
-- continuous monitoring of vital signs including peripheral and core temperature, invasive monitoring for repeated blood sampling
-- check plasma CK
+* stop potential trigger agents immediately and give 100% oxygen
+* consider installing clean breathing system, remove inhalational agents and increase fresh gas flow to maximum, consider vapor scavenging filters
+* hyperventilate to achieve normocapnia
+* maintain anesthesia using non-volatile anesthetics and opioids as well as non-depolarizing muscle relaxants, curtail surgery if possible
+* give dantrolene (2.5mg/kg every 5 minutes until effect -* max. 20mg/kg): need to assign one person to correctly reconstitute dantrolene from powder formulation
+* active cooling
+* treat or prevent hyperkalemia, acidosis, arrhythmias (no calcium channel antagonists) and prevent acute renal failure and coagulopathy
+* continuous monitoring of vital signs including peripheral and core temperature, invasive monitoring for repeated blood sampling
+* check plasma CK
 
 ### Post Care
-- continue monitoring postoperatively on PICU, repeat dantrolene as required
-- repeat plasma CK
-- monitor and prevent acute renal failure and compartment syndrome
-- counsel patient and family members
-- arrange referral to Malignant Hyperthermia Unit
+* continue monitoring postoperatively on PICU, repeat dantrolene as required
+* repeat plasma CK
+* monitor and prevent acute renal failure and compartment syndrome
+* counsel patient and family members
+* arrange referral to Malignant Hyperthermia Unit
 
 ### References
-- Salazar JH, Yang J, Shen L, Abdullah F, Kim TW. Pediatric malignant hyperthermia: risk factors, morbidity, and mortality identified from the Nationwide Inpatient Sample and Kids' Inpatient Database. Paediatr Anaesth. 2014; 24: 1212-6.
-- Litman RS, Griggs SM, Dowling JJ, Riazi S. Malignant Hyperthermia Susceptibility and Related Diseases. Anesthesiology. 2018; 128: 159-67.
-- Cummings T, Der T, Karsli C. Repeated non-anesthetic malignant hyperthermia reactions in a child. Paediatr Anaesth. 2016; 26: 1202-3.
-- Shapiro F, Athiraman U, Clendenin DJ, Hoagland M, Sethna NF. Anesthetic management of 877 pediatric patients undergoing muscle biopsy for neuromuscular disorders: a 20-year review. Paediatr Anaesth. 2016; 26: 710-21.
-- Wappler F. S1-Leitlinie maligne Hyperthermie. Der Anaesthesist 2018; 67: 529--32.
-- AAGBI. Malignant Hyperthermia Crisis. AAGBI Safety Guideline. https://www.aagbi.org/publications/publications-guidelines/M/R
-- Hopkins PM, Rüffert H, Snoeck MM, Girard T, Glahn KP, Ellis FR, Müller CR, Urwyler A; European Malignant Hyperthermia Group. European Malignant Hyperthermia Group guidelines for investigation of malignant hyperthermia susceptibility. Br J Anaesth 2015; 115: 531-9.
+* Salazar JH, Yang J, Shen L, Abdullah F, Kim TW. Pediatric malignant hyperthermia: risk factors, morbidity, and mortality identified from the Nationwide Inpatient Sample and Kids' Inpatient Database. Paediatr Anaesth. 2014; 24: 1212-6.
+* Litman RS, Griggs SM, Dowling JJ, Riazi S. Malignant Hyperthermia Susceptibility and Related Diseases. Anesthesiology. 2018; 128: 159-67.
+* Cummings T, Der T, Karsli C. Repeated non-anesthetic malignant hyperthermia reactions in a child. Paediatr Anaesth. 2016; 26: 1202-3.
+* Shapiro F, Athiraman U, Clendenin DJ, Hoagland M, Sethna NF. Anesthetic management of 877 pediatric patients undergoing muscle biopsy for neuromuscular disorders: a 20-year review. Paediatr Anaesth. 2016; 26: 710-21.
+* Wappler F. S1-Leitlinie maligne Hyperthermie. Der Anaesthesist 2018; 67: 529--32.
+* AAGBI. Malignant Hyperthermia Crisis. AAGBI Safety Guideline. https://www.aagbi.org/publications/publications-guidelines/M/R
+* Hopkins PM, Rüffert H, Snoeck MM, Girard T, Glahn KP, Ellis FR, Müller CR, Urwyler A; European Malignant Hyperthermia Group. European Malignant Hyperthermia Group guidelines for investigation of malignant hyperthermia susceptibility. Br J Anaesth 2015; 115: 531-9.
 

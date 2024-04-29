@@ -7,7 +7,7 @@ What to include in discussions of benefits and risks of anesthesia and analgesia
 ### What do we know about the risks of anesthesia and analgesia?
 Peri-operative complications occur more often in neonates, infants and young children when compared with older children and adults, and morbidity and mortality risks are higher at younger ages. The incidence and severity of peri-operative complications are dependent on young age (reduced physiological reserves), pre-operative morbidity, urgency of the procedure as well as the training and experience of the anesthesiologist and the anesthesia team. There is a deﬁnite causal relationship between preventable poor peri-operative anesthetic care and adverse events with persistent poor neurological outcome and mortality in neonates, infants and small children.
 This table gives an idea of risks and how often they might occur.
-  ----------------------------------------------------------------------- Risk      Risk level   Description   ----------------- ------------ ---------------------------------------- Restlessness  1 in 10  Very common ("someone in your family")
+  ----------------------------------------------------------------------* Risk      Risk level   Description   ----------------* -----------* ---------------------------------------* Restlessness  1 in 10  Very common ("someone in your family")
   Sickness  1 in 10  Very common 
   Dizziness     1 in 10  Very common
   Headache  1 in 100 Common ("someone in a street")
@@ -30,13 +30,13 @@ Good pediatric anesthesia care also requires well trained pediatric nurses, pedi
 There is no proven direct causal adverse effect of general anesthetics on human brain development. Recent reviews of the animal and clinical literature , and the outcome of the GAS study conclude that there is now strong evidence that short single exposure to anesthesia in early life is not associated with any long term significant measurable risk in humans. Some large population-based studies have found evidence for a small difference in tests of academic achievement and school readiness but the differences are small (for example, around 1% decrement in IQ) and this would not have a noticeable impact on the child. Any added risk of anesthesia and surgery is up to 10 times less than other factors such as gender or maternal education. Some studies have found evidence of an association between surgery and anesthesia in early life and increased risk of behavioral disorder or learning disability but the added risk is very small.
 
 **The central points to explain and emphasize are that:**
-- the surgery or procedure is only being scheduled because it is necessary
-- surgery cannot be safely performed without adequate anesthesia and analgesia
-- most anaesthetics in children are of short duration
-- all babies and children are closely monitored during anesthesia and surgery to maximize safety and minimize side- effects
-- the aim is to provide careful management of pediatric anesthesia by trained personnel within a safe environment respecting the rights of the child (see Rights of the Child, Competence, Quality)
-- there are currently no data to indicate that a single, well conducted anesthetic of short duration causes long-term changes in brain development
-- experimental data and measures used in animals cannot be extrapolated to indicate long-term effects in human infants
+* the surgery or procedure is only being scheduled because it is necessary
+* surgery cannot be safely performed without adequate anesthesia and analgesia
+* most anaesthetics in children are of short duration
+* all babies and children are closely monitored during anesthesia and surgery to maximize safety and minimize side* effects
+* the aim is to provide careful management of pediatric anesthesia by trained personnel within a safe environment respecting the rights of the child (see Rights of the Child, Competence, Quality)
+* there are currently no data to indicate that a single, well conducted anesthetic of short duration causes long-term changes in brain development
+* experimental data and measures used in animals cannot be extrapolated to indicate long-term effects in human infants
 
 ### If I am called to anesthetize a young infant should I instigate a discussion about long-term effects of anesthesia on the developing brain?
 This depends on the medicolegal approach to disclosure of risks in your country. It is important to do this in an open and non-alarming way and to give reassurance that for all the common risks and potential adverse effects, measures are taken to prevent or minimize these. Rare risks should be mentioned in context and related to risks of everyday life. There may be specific risks for an individual child due to young age, past history, comorbidities, complexity of the surgery or invasiveness of the anesthetic procedure and these should be identified and included in the discussion.
@@ -44,7 +44,7 @@ This depends on the medicolegal approach to disclosure of risks in your country.
 ### Should I alter my current anesthesia practice in response to the current evidence base information or other published statements?
 There is currently no evidence to support one particular anesthetic technique or drug regimen that has beneﬁt over another in terms of reducing the potential effects of anesthesia on the infant brain. In addition, changing anesthesia practice from a familiar to an unfamiliar technique can itself introduce risk. Trials have begun of new techniques involving agents with neuroprotective properties but results will not be available for some time.
 
-### Is repeated exposure or long duration exposure to anesthetic agents more harmful than short- duration single exposure?
+### Is repeated exposure or long duration exposure to anesthetic agents more harmful than short* duration single exposure?
 There is only extremely weak human evidence to support the FDA warning that repeated or lengthy use of anesthetic drugs may affect the development of children's brains. Current data on multiple exposures or longer-term exposures are unsuitable to answer this question at this time and unlikely to be resolved in the future. Evidence from both epidemiological and prospective studies indicates that a single exposure to anesthesia of an hour is safe in terms of brain development. The epidemiological studies carried out so far have not shown major adverse effects on the infant brain that can be speciﬁcally related to anesthesia. Infants who need multiple anesthetics or those who require complex surgery and anesthesia of long duration usually have additional comorbidities that can affect development.
 
 ### If parents still remain unsure or are concerned about providing consent for anesthesia and surgery, what should I do? 
@@ -52,10 +52,10 @@ In the rare case when parents or carers remain sufficiently concerned to withhol
 
 ### What can I do to improve the quality of my care?
 There are many excellent resources that summarize quality improvement science and give examples of quality improvement in anesthesia and perioperative care, including pediatric practice:
-- Raising the Standard: a compendium of audit recipes (3rd edition) 2012. Royal Collage of Anesthetists.
-- Audit Recipe Book: Section 9, Paediatrics (2012). Royal Collage of Anesthetists.
-- see also Quality Improvement
+* Raising the Standard: a compendium of audit recipes (3rd edition) 2012. Royal Collage of Anesthetists.
+* Audit Recipe Book: Section 9, Paediatrics (2012). Royal Collage of Anesthetists.
+* see also Quality Improvement
 
 ### If children or parents ask for more information about anesthesia and analgesia, where should they go?
-- see content for Parents
+* see content for Parents
 
